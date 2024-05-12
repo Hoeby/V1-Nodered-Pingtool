@@ -203,11 +203,12 @@
             "ae2fffa6ec0b3d72",
             "a07b9f020c17b790",
             "c05f3223354eb6df",
-            "b4a4ffd10afd18e1"
+            "b4a4ffd10afd18e1",
+            "8d25051fff6c6b71"
         ],
         "x": 114,
         "y": 1419,
-        "w": 2172,
+        "w": 2352,
         "h": 162
     },
     {
@@ -1997,7 +1998,7 @@
         "host": "",
         "timer": "20",
         "inputs": 1,
-        "x": 910,
+        "x": 1090,
         "y": 1460,
         "wires": [
             [
@@ -2017,7 +2018,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1090,
+        "x": 1270,
         "y": 1460,
         "wires": [
             [
@@ -2044,7 +2045,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1280,
+        "x": 1460,
         "y": 1540,
         "wires": [
             [
@@ -2064,7 +2065,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1470,
+        "x": 1650,
         "y": 1540,
         "wires": [
             [
@@ -2092,7 +2093,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1660,
+        "x": 1840,
         "y": 1540,
         "wires": [
             [
@@ -2113,7 +2114,7 @@
         "columns": [],
         "outputs": 1,
         "cts": true,
-        "x": 1810,
+        "x": 1990,
         "y": 1540,
         "wires": [
             [
@@ -2131,7 +2132,7 @@
             "ee549fc8a0f25068",
             "713240bda3fccdf0"
         ],
-        "x": 1145,
+        "x": 1325,
         "y": 1540,
         "wires": [
             [
@@ -2154,7 +2155,7 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 1790,
+        "x": 1970,
         "y": 1500,
         "wires": [
             []
@@ -2180,7 +2181,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1570,
+        "x": 1750,
         "y": 1500,
         "wires": [
             [
@@ -3280,7 +3281,7 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 910,
+        "x": 1090,
         "y": 1500,
         "wires": [
             [
@@ -3294,7 +3295,7 @@
         "z": "166b3f5d22a2184b",
         "g": "193df047762d6c3d",
         "name": "Filter ping webpages",
-        "func": "let d = new Date();\nlet webpages = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet webpageslength = Object.keys(webpages).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nif (msg.topic === \"manual\") {\n    manualtopic = true;\n} else {\n    manualtopic = false;\n}\n\nfor (let i = 0; i < webpageslength; i++) {\n    let webpagekeys = Object.keys(webpages);\n    let webpageIDkey = webpagekeys[i];\n    let webpage = webpages[webpageIDkey] || {};\n\n    let intervalms = webpage.intervalms;\n    let timestampms;\n\n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (webpage.ip + \"-\" + webpage.port === resultIDkey) {\n            if (results[webpage.ip + \"-\" + webpage.port].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[webpage.ip + \"-\" + webpage.port].timestampms;\n\n            } else {\n                timestampms = 0;\n            }\n            if (manualtopic) {\n                timestampms = 0;\n            }\n\n            if ((d.getTime() - timestampms > intervalms) || (manualtopic === true)) {\n                msg.topic = webpage.ip + \"-\" + webpage.port;\n                msg.name = webpage.name;\n                msg.startping = d.getTime();\n                msg.settings = webpage;\n                msg.payload = [\n                    {\n                        \"name\": webpage.name,\n                        \"host\": webpage.ip + \":\" + webpage.port,\n                        \"timeout\": webpage.timeout\n                    },\n                ]\n                msg.url = webpage.ip + \":\" + webpage.port\n                node.send(msg);\n            }\n        }\n    }\n}\nreturn;",
+        "func": "let d = new Date();\nlet webpages = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet webpageslength = Object.keys(webpages).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nif (msg.topic === \"manual\") {\n    manualtopic = true;\n} else {\n    manualtopic = false;\n}\n\nfor (let i = 0; i < webpageslength; i++) {\n    let webpagekeys = Object.keys(webpages);\n    let webpageIDkey = webpagekeys[i];\n    let webpage = webpages[webpageIDkey] || {};\n\n    let intervalms = webpage.intervalms;\n    let timestampms;\n\n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (webpage.ip + \"-\" + webpage.port === resultIDkey) {\n            if (results[webpage.ip + \"-\" + webpage.port].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[webpage.ip + \"-\" + webpage.port].timestampms;\n\n            } else {\n                timestampms = 0;\n            }\n            if (manualtopic) {\n                timestampms = 0;\n            }\n\n            if ((d.getTime() - timestampms > intervalms) || (manualtopic === true)) {\n                msg.topic = webpage.ip + \"-\" + webpage.port;\n                msg.name = webpage.name;\n                msg.settings = webpage;\n                msg.payload = [\n                    {\n                        \"name\": webpage.name,\n                        \"host\": webpage.ip + \":\" + webpage.port,\n                        \"timeout\": webpage.timeout\n                    },\n                ]\n                msg.url = webpage.ip + \":\" + webpage.port\n                node.send(msg);\n            }\n        }\n    }\n}\nreturn;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3320,7 +3321,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1090,
+        "x": 1270,
         "y": 1500,
         "wires": [
             [
@@ -3351,7 +3352,7 @@
         "y": 1500,
         "wires": [
             [
-                "ea6e75af454187d9"
+                "8d25051fff6c6b71"
             ]
         ]
     },
@@ -3886,7 +3887,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1330,
+        "x": 1510,
         "y": 1460,
         "wires": [
             [
@@ -4068,7 +4069,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1340,
+        "x": 1520,
         "y": 1500,
         "wires": [
             [
@@ -4088,7 +4089,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1980,
+        "x": 2160,
         "y": 1540,
         "wires": [
             [
@@ -4112,10 +4113,30 @@
         "className": "",
         "topic": "",
         "name": "Show detail info",
-        "x": 2180,
+        "x": 2360,
         "y": 1540,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "8d25051fff6c6b71",
+        "type": "function",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
+        "name": "Start time",
+        "func": "let d = new Date();\nmsg.startping = d.getTime();\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 1500,
+        "wires": [
+            [
+                "ea6e75af454187d9"
+            ]
         ]
     },
     {
