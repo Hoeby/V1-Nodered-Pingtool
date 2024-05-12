@@ -1,6 +1,6 @@
 [
     {
-        "id": "778214a986683b78",
+        "id": "166b3f5d22a2184b",
         "type": "tab",
         "label": "Ping-tool",
         "disabled": false,
@@ -8,9 +8,9 @@
         "env": []
     },
     {
-        "id": "b75b934756c70f9c",
+        "id": "2ee78d8d65f6b35e",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
         "name": "Save file location",
         "style": {
             "stroke": "#3f93cf",
@@ -18,23 +18,23 @@
             "color": "#3f93cf"
         },
         "nodes": [
-            "2f156f97aaccb4f9",
-            "27dd5e6a18a7eb3e",
-            "dc02e793799b1369",
-            "95b7e5bdcdd91047",
-            "ef26d5ca6245bc11",
-            "a671bac90582e879",
-            "8b1f9ea558998302",
-            "bb849d5256e829c7",
-            "459c4703a6a59d4f",
-            "24cde94bcbfe966e",
-            "c190d0b3a3813f0e",
-            "0071d41df72d840c",
-            "e70361bbe115a06c",
-            "d68fb14d48e61bf7",
-            "32cd38e73694f99d",
-            "1fe10d0807c6c1a5",
-            "8e09d2d5f66f59ab"
+            "f817febafa2e2ec9",
+            "30ac23dad2ddc07e",
+            "48e7d2edc867c8dc",
+            "e81b6e98f6523df9",
+            "6f0aacad3197c943",
+            "cc2b5b71f0e2aaac",
+            "5019b114fc441426",
+            "f0ba8d7f10def91b",
+            "a0c0c0080beb4363",
+            "9c57b09a4fcc718f",
+            "1a17beb47391b046",
+            "f3877b34982a22dc",
+            "da6d4389bb110713",
+            "c212deb3835f4c46",
+            "d30d268db0d190ec",
+            "53e61568675bdbd7",
+            "45204b9d5854f8c8"
         ],
         "x": 114,
         "y": 2119,
@@ -42,9 +42,9 @@
         "h": 202
     },
     {
-        "id": "1e72c782492a6eeb",
+        "id": "e7af55a89184cc8f",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
         "name": "Set flow clients-ping na deploy",
         "style": {
             "label": true,
@@ -52,25 +52,25 @@
             "color": "#3f93cf"
         },
         "nodes": [
-            "186ebb5237f6a498",
-            "53ef89e44d892d60",
-            "fc1ddd8fd3351a58",
-            "6fa5ce147e3cb4fa",
-            "29920f3c79d91540",
-            "a3649a13ae2fb0e7",
-            "96d32721777fe317",
-            "27f567cfbd9e26d1",
-            "20509a6dbd8d596a",
-            "3be94ff5337a4670",
-            "44475db7efe00393",
-            "9c42e0ab6739ed28",
-            "d9cd72f1676b0a6b",
-            "2d62137a62b5f310",
-            "c6fa40d54883924c",
-            "4bf92364cba23ae4",
-            "1ae2c7f5f40e970a",
-            "34d4122e692824d2",
-            "041c750c228e587d"
+            "4a9dcdcb6ce78c42",
+            "6c339e319be6d740",
+            "5cdab53b1f50821a",
+            "160c0d2d17742351",
+            "e95df38e60553db0",
+            "539a91ea417f7510",
+            "d3702ba43792c8ae",
+            "1c6719532fd813a9",
+            "adc79ba653b9050f",
+            "f38c0c07b19553f2",
+            "b0ccc9f9559fe1b1",
+            "4b7304f5dc110112",
+            "a23e04b0a3ca55d6",
+            "4d4149d66f32721a",
+            "a84f133d7e4eae3c",
+            "c38f40f199c20a55",
+            "d9ade764157951c1",
+            "72227791611cb138",
+            "fccd36321a0d857a"
         ],
         "x": 114,
         "y": 2339,
@@ -78,28 +78,29 @@
         "h": 122
     },
     {
-        "id": "0cc1a122e3835b03",
+        "id": "5648f39f55395f07",
         "type": "group",
-        "z": "778214a986683b78",
-        "name": "Shelly IDX table",
+        "z": "166b3f5d22a2184b",
+        "name": "Client detele options",
         "style": {
             "stroke": "#3f93cf",
-            "label": true
+            "label": true,
+            "color": "#3f93cf"
         },
         "nodes": [
-            "df2d538d9846a5f8",
-            "1f973fc071621a48",
-            "ab693303419462bd",
-            "f5cd39a40b034c84",
-            "3b0fa39790409bef",
-            "19b85cd44b620f8d",
-            "b983d05b9e3dada5",
-            "4a02efc06a3d2be9",
-            "1c4cc5d24394c66e",
-            "a06904a5184284b1",
-            "a546d0a0950830c9",
-            "887ec2695dd0806e",
-            "13abb43035f82c64"
+            "55e1c2243ed9a00b",
+            "5a2e9fa3a8e436cf",
+            "412fdfce20f6c852",
+            "3df003875fb9111e",
+            "69eb201b72270016",
+            "f2af0375bf07a2e1",
+            "e42a7372272aca21",
+            "ee549fc8a0f25068",
+            "df48d70d959be24f",
+            "68a3faa121e42b70",
+            "ef2ad954ed0f8af4",
+            "9f7143fbd1c1a75c",
+            "f6f61561ea7be543"
         ],
         "x": 114,
         "y": 419,
@@ -107,9 +108,9 @@
         "h": 182
     },
     {
-        "id": "80841f84be12309d",
+        "id": "562046fbd09ca898",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
         "name": "Flow update nodes",
         "style": {
             "stroke": "#3f93cf",
@@ -117,15 +118,15 @@
             "color": "#3f93cf"
         },
         "nodes": [
-            "376817b0e8c1f652",
-            "1a81ed91df39bdb0",
-            "5c9ac8f9228f8078",
-            "2077ab681c68f868",
-            "d6a1925400cf10f7",
-            "7ac67bc0daa3b390",
-            "dfa765da5da3a9a2",
-            "c403766a737f409b",
-            "b22aaaba297dc35f"
+            "7aa9923868d01e2a",
+            "9722819796be57a5",
+            "c780f69af990ac7d",
+            "29c4cf9aed2e18db",
+            "678b138e5c386f71",
+            "cf81bc155ba0dcde",
+            "ca90baf0a86dc3c2",
+            "797f472cbb68e6b5",
+            "22373071c84e9b2c"
         ],
         "x": 114,
         "y": 2579,
@@ -133,41 +134,38 @@
         "h": 262
     },
     {
-        "id": "3dfe4f44580720a3",
+        "id": "d663ded32689f05e",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
+        "name": "Add clients",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
+            "stroke": "#3f93cf",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#3f93cf"
         },
         "nodes": [
-            "93f030c9ca9b9922",
-            "3ed49a7c80ba5411",
-            "92ecd259daa0a10d",
-            "c28760d4bd3ac654",
-            "e1852376a35a7fc4",
-            "8f040507192075b7",
-            "95fdc48cce829d71",
-            "f096c7dabee929a4",
-            "20bb43b81cbf18ea",
-            "80ae2970672fd1bb",
-            "f394426619870863",
-            "d16efd4c81f384d1",
-            "88d36ba77e7812e5",
-            "9e18815f4def0880",
-            "5cee2d0bee19588f",
-            "b886ee0597406762",
-            "b1a6957eaefbe359",
-            "0fb78eeb08558d5c",
-            "396048560460a2d9",
-            "e070f5d2c0ab6c37",
-            "77ef375a35be5665",
-            "b25c74f8babb77c5"
+            "3a5a77add871428c",
+            "05c46393987e9194",
+            "53de060928284d7d",
+            "b3f434704c543216",
+            "2052df2c4f961b94",
+            "b82b69e0154e728e",
+            "8b5ea82d145ec4eb",
+            "13cca1c9f739cf27",
+            "2467ec7cf698f8f7",
+            "b0a92d6a8fb30fce",
+            "fd149109e03da91d",
+            "b1ebb829a5e1ca1a",
+            "64fb920d2cf69ea9",
+            "1f5f5f58491aed43",
+            "b2bcc577e6c9c540",
+            "8eb49162ead0878a",
+            "037267be77a0c2c0",
+            "a11a82588c7271b2",
+            "630d2086b39ee483",
+            "f59be9ac9344722c",
+            "5f436d88509d84d2",
+            "607a46d3d20b4579"
         ],
         "x": 114,
         "y": 79,
@@ -175,157 +173,77 @@
         "h": 322
     },
     {
-        "id": "36344ae984d9166c",
+        "id": "193df047762d6c3d",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
+        "name": "Ping nodes",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
+            "stroke": "#3f93cf",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#3f93cf"
         },
         "nodes": [
-            "c935aabb4cce4232",
-            "ae9dd7a57c2ce688",
-            "d5bcfe939b763813",
-            "7b10b60b47851ddf",
-            "b727f1326c27c11c",
-            "fdd6ab05593d7d57",
-            "16b8292ef3e224ac",
-            "4f925ab2bc3453d5",
-            "500ee8f1f9c1a6b3",
-            "8bfe8fdeef353c41",
-            "b7a28857c0a98769",
-            "3d97080684314d24",
-            "85b715f15d00f72d",
-            "5ebb20183ab87f27",
-            "44c8f374afca77d0",
-            "ab62130ac75c6cc3",
-            "84d1f580c16ea2da",
-            "7a472df75ed11ca4",
-            "45ea7323129f2785",
-            "101651f7938ec76a",
-            "bc590573b2dad3ad"
+            "5af081ee292919c6",
+            "4a115793fa97947c",
+            "b804687eedf11df4",
+            "4d18512c8d23066f",
+            "d2dffb94981b7e0b",
+            "cef74d9ddefe72a3",
+            "45509c83c4050295",
+            "cf13d066c0b57dd8",
+            "bc69e6bce4f3862c",
+            "81f85f93439f47f0",
+            "beb7bb9db7edfa83",
+            "e39209bdcf8c9f7e",
+            "ea6e75af454187d9",
+            "f54ddb6f839d72bd",
+            "346b57f79c06a589",
+            "10051fe07de608e1",
+            "ff2b4b3a21dfed9c",
+            "ae2fffa6ec0b3d72",
+            "a07b9f020c17b790",
+            "c05f3223354eb6df",
+            "b4a4ffd10afd18e1"
         ],
         "x": 114,
-        "y": 1379,
-        "w": 1792,
-        "h": 202
+        "y": 1419,
+        "w": 2172,
+        "h": 162
     },
     {
-        "id": "7a472df75ed11ca4",
-        "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
-        "name": "clear line",
-        "group": "d33ea1387fe714ae",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "",
-        "tooltip": "Ping list of clients and webpages",
-        "color": "#000000",
-        "bgcolor": "#E6E6E6",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 200,
-        "y": 1440,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "45ea7323129f2785",
-        "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
-        "name": "clear line",
-        "group": "d33ea1387fe714ae",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "",
-        "tooltip": "Ping list of clients and webpages",
-        "color": "#000000",
-        "bgcolor": "#E6E6E6",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 220,
-        "y": 1420,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d33ea1387fe714ae",
-        "type": "ui_group",
-        "name": "Ping tool",
-        "tab": "754ed74f8d6d9565",
-        "order": 2,
-        "disp": true,
-        "width": "24",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "754ed74f8d6d9565",
-        "type": "ui_tab",
-        "name": "Ping-tool",
-        "icon": "dashboard",
-        "order": 5,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "0f988b06408393c4",
+        "id": "416d372a1bf6f64e",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
+        "name": "Add webpages",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
+            "stroke": "#3f93cf",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#3f93cf"
         },
         "nodes": [
-            "812fe574dacb580b",
-            "4cef924bf7f6e1d1",
-            "1f31cea12a0d0847",
-            "071a77f8dec39117",
-            "49c82bad03bff8b0",
-            "39ced3f1d9256718",
-            "2e35a37775274627",
-            "0c9bbda2c6a44e4c",
-            "5df89392e95f89e3",
-            "63f3954022ca8653",
-            "68b7208ce00bad73",
-            "de2d5b0db79f97b7",
-            "8e9be4f1a0fea8b9",
-            "9abf2e28285ae991",
-            "a4dfa011236a19d5",
-            "e4bcf7c746b569cd",
-            "04eb3702929811e2",
-            "1d6642184d4df058",
-            "d45d919b214723db",
-            "511fb5dcd2aeef62",
-            "b0de92e31a2ce53b",
-            "ac6e7e2c98752764",
-            "23db672fdcd25e9b"
+            "9b6de9192151b91e",
+            "04dc39754e4ea483",
+            "f38c17542fb466f1",
+            "7dcbbe57dd5017d3",
+            "9d4e2b18d0b12c04",
+            "924cccacf98b7495",
+            "9c1a66773a0f6172",
+            "35e5e340494fedb5",
+            "1fec4bb2b36380d3",
+            "7feb7b1361276e26",
+            "2dbba3a62beab87a",
+            "a3ce20fabd6a69b5",
+            "841036fe8490164a",
+            "278153c919320662",
+            "e7f3d7a68e227fba",
+            "edafa76a59c05215",
+            "fd30e4e865d35c4b",
+            "07ced5efe665ddad",
+            "2d81ca95db8f7c89",
+            "2347e39935ce2182",
+            "76129508be2da943",
+            "39f027ac0d6c506b",
+            "2381bdbd806c6bb9"
         ],
         "x": 114,
         "y": 699,
@@ -333,29 +251,30 @@
         "h": 382
     },
     {
-        "id": "3b2b72b585c88f27",
+        "id": "216f05fa3f5bf204",
         "type": "group",
-        "z": "778214a986683b78",
-        "name": "Shelly IDX table",
+        "z": "166b3f5d22a2184b",
+        "name": "Webpages detele options",
         "style": {
             "stroke": "#3f93cf",
-            "label": true
+            "label": true,
+            "color": "#3f93cf"
         },
         "nodes": [
-            "bba6b5296a2a0248",
-            "95c06c6bf40ead5c",
-            "d4ce5c1eaa6aebe7",
-            "9af68968873366bc",
-            "d6bd8af62cec222c",
-            "ee8ce1442bba0448",
-            "c0e729e9edab2038",
-            "7a9ed34afcdb2aa5",
-            "800809ad6f690cbf",
-            "026cedb4c7dcb9af",
-            "a7698f7f43aeb6bc",
-            "4ba3629f4950d7e2",
-            "541a6a4ce8439883",
-            "1e5e3c4131beb0b3"
+            "a4369902b5e8df07",
+            "986cb4c3cf5978c5",
+            "592916e91855a9a6",
+            "255e8d9d0276494e",
+            "84d59da3cea343f3",
+            "6c97c70d221f2768",
+            "e6f9190b35582ec2",
+            "713240bda3fccdf0",
+            "f9d95b3068658814",
+            "80e17443febcad48",
+            "a1bcb6a0a9a2a4de",
+            "2ccbf1329bfae2cc",
+            "5ef12e6b84d7f406",
+            "e190e039e91f9e87"
         ],
         "x": 114,
         "y": 1099,
@@ -363,9 +282,9 @@
         "h": 182
     },
     {
-        "id": "1b078b4e3cb34041",
+        "id": "0655677491b8b65b",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
         "name": "Set flow.get(telegrambot+chatid) na deploy",
         "style": {
             "label": true,
@@ -373,12 +292,12 @@
             "color": "#3f93cf"
         },
         "nodes": [
-            "2d5dcb4304a0901a",
-            "f897010fb19eecc9",
-            "24b8247762331bc4",
-            "cf994b3878b086ab",
-            "58be7eaf6fc63e2c",
-            "9f695d9ddcadfc0f"
+            "84ba71cdf4ae82e2",
+            "88fa8d97ed01a35e",
+            "8a6bb0c24630fb56",
+            "5c6e4e15ea273f4f",
+            "8b943e2fc13a8c89",
+            "e7735b27bed783c8"
         ],
         "x": 114,
         "y": 1679,
@@ -386,9 +305,9 @@
         "h": 82
     },
     {
-        "id": "f9c91086607bc42e",
+        "id": "5bfc11d8ddf9e991",
         "type": "group",
-        "z": "778214a986683b78",
+        "z": "166b3f5d22a2184b",
         "name": "Set telegram settings",
         "style": {
             "stroke": "#3f93cf",
@@ -396,20 +315,20 @@
             "color": "#3f93cf"
         },
         "nodes": [
-            "ee14456093c642ae",
-            "21850dcc45e2382d",
-            "63f0dd7b943e2d88",
-            "cbf354f448d7609e",
-            "8df879b0f01694f6",
-            "05c29c01d7a525f2",
-            "3be3c709f83c4a7c",
-            "7856886803b859f9",
-            "7cb31ccc3b84d3c9",
-            "b0f5215c040efa68",
-            "07c9ebb0e615861d",
-            "290c7653e5d8f1a0",
-            "09fd1e5d9b2fccb5",
-            "15f040d084253a21"
+            "b15cdbd993c6e2a0",
+            "146935cfdb882149",
+            "f5902126afad6b5a",
+            "73aca68d7ad60296",
+            "1e530be405246b27",
+            "7db9aaa94ecaf35f",
+            "c68148ee941641dd",
+            "cbcd5e464785a972",
+            "05da5dc31e69d30b",
+            "9e910e80179fc615",
+            "b46a11b44c0ec868",
+            "61628aa61cb3f639",
+            "3c89a7eb8f399738",
+            "00ec2250586baf7a"
         ],
         "x": 114,
         "y": 1779,
@@ -417,101 +336,101 @@
         "h": 242
     },
     {
-        "id": "0fb78eeb08558d5c",
+        "id": "a11a82588c7271b2",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "x": 900,
         "y": 360,
         "wires": [
             [
-                "e070f5d2c0ab6c37"
+                "f59be9ac9344722c"
             ]
         ]
     },
     {
-        "id": "396048560460a2d9",
+        "id": "630d2086b39ee483",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "x": 260,
         "y": 280,
         "wires": [
             [
-                "c28760d4bd3ac654",
-                "e1852376a35a7fc4",
-                "92ecd259daa0a10d",
-                "3ed49a7c80ba5411",
-                "93f030c9ca9b9922",
-                "77ef375a35be5665"
+                "b3f434704c543216",
+                "2052df2c4f961b94",
+                "53de060928284d7d",
+                "05c46393987e9194",
+                "3a5a77add871428c",
+                "5f436d88509d84d2"
             ]
         ]
     },
     {
-        "id": "e070f5d2c0ab6c37",
+        "id": "f59be9ac9344722c",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "x": 260,
         "y": 360,
         "wires": [
             [
-                "396048560460a2d9"
+                "630d2086b39ee483"
             ]
         ]
     },
     {
-        "id": "1d6642184d4df058",
+        "id": "07ced5efe665ddad",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "x": 900,
         "y": 1040,
         "wires": [
             [
-                "511fb5dcd2aeef62"
+                "2347e39935ce2182"
             ]
         ]
     },
     {
-        "id": "d45d919b214723db",
+        "id": "2d81ca95db8f7c89",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "x": 260,
         "y": 920,
         "wires": [
             [
-                "071a77f8dec39117",
-                "49c82bad03bff8b0",
-                "1f31cea12a0d0847",
-                "4cef924bf7f6e1d1",
-                "812fe574dacb580b",
-                "b0de92e31a2ce53b",
-                "ac6e7e2c98752764"
+                "7dcbbe57dd5017d3",
+                "9d4e2b18d0b12c04",
+                "f38c17542fb466f1",
+                "04dc39754e4ea483",
+                "9b6de9192151b91e",
+                "76129508be2da943",
+                "39f027ac0d6c506b"
             ]
         ]
     },
     {
-        "id": "511fb5dcd2aeef62",
+        "id": "2347e39935ce2182",
         "type": "junction",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "x": 260,
         "y": 1040,
         "wires": [
             [
-                "d45d919b214723db"
+                "2d81ca95db8f7c89"
             ]
         ]
     },
     {
-        "id": "3d97080684314d24",
+        "id": "e39209bdcf8c9f7e",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 2,
         "width": 0,
         "height": 0,
@@ -526,24 +445,24 @@
         "payloadType": "str",
         "topic": "manual",
         "topicType": "str",
-        "x": 270,
+        "x": 250,
         "y": 1500,
         "wires": [
             [
-                "c935aabb4cce4232",
-                "5ebb20183ab87f27"
+                "5af081ee292919c6",
+                "f54ddb6f839d72bd"
             ]
         ]
     },
     {
-        "id": "93f030c9ca9b9922",
+        "id": "3a5a77add871428c",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "label": "Client name",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 6,
         "width": 6,
         "height": 1,
@@ -558,19 +477,19 @@
         "y": 120,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "3ed49a7c80ba5411",
+        "id": "05c46393987e9194",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "label": "Client IP",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 8,
         "width": 6,
         "height": 1,
@@ -585,20 +504,20 @@
         "y": 160,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "92ecd259daa0a10d",
+        "id": "53de060928284d7d",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "label": "Ping interval",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 9,
         "width": 6,
         "height": 1,
@@ -659,17 +578,17 @@
         "y": 200,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "c28760d4bd3ac654",
+        "id": "b3f434704c543216",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 12,
         "width": 6,
         "height": 1,
@@ -688,20 +607,20 @@
         "y": 320,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "e1852376a35a7fc4",
+        "id": "2052df2c4f961b94",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "label": "Telegram notify",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 11,
         "width": 6,
         "height": 1,
@@ -727,17 +646,17 @@
         "y": 280,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "8f040507192075b7",
+        "id": "b82b69e0154e728e",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Set Client settings",
-        "func": "let data1 = context.get(\"data1\") || null; //get from context or default to null\nlet data2 = context.get(\"data2\") || null; //get from context or default to null\nlet data3 = context.get(\"data3\") || null; //get from context or default to null\nlet data4 = context.get(\"data4\") || null; //get from context or default to null\nlet data5 = context.get(\"data5\") || null; //get from context or default to null\nlet data6 = context.get(\"data6\") || null; //get from context or default to null\n\nlet reconfig = flow.get(\"ping-clients\") || {};\nlet results = flow.get(\"ping-results\") || {};\n\nswitch (msg.topic){\n\n    case \"name\":\n        data1 = msg.payload;\n        context.set(\"data1\", data1);//store in context for next time \n        return;\n\n    case \"ip\":\n        data2 = msg.payload;\n        context.set(\"data2\", data2);//store in context for next time \n        return;\n    \n    case \"interval\":\n        data3 = msg.payload; \n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"timeout\":\n        data4 = msg.payload;    \n        context.set(\"data4\", data4); //store in context for next time \n        return;\n\n    case \"notification\":\n        data5 = msg.payload;\n        context.set(\"data5\", data5); //store in context for next time \n        return;\n        \n    case \"save\":\n        data6 = { payload: msg.topic };\n        if ((data1 !== null) && (data2 !== null) && (data3 !== null) && (data4 !== null) && (data5 !== null)) { \n            let clients = [];\n            let dev = reconfig[data2]  || {};\n            let devresults = reconfig[data2] || {};\n            \n            dev.name = data1;\n            devresults.name = data1;\n            dev.ip = data2;\n            dev.port = \"N/A\"\n            devresults.ip = data2;\n            if (data3 > 1) {\n              dev.interval = data3 + \" minutes\";\n            } else {\n              dev.interval = data3 + \" minute\";\n            }\n            dev.intervalms = (data3 * 60000);\n            dev.timeout = data4;\n            dev.notification = data5;\n            dev.editbutton = '<button type=\"button\">Edit</button>'\n            \n            // write back\n            reconfig[data2] = dev;\n            results[data2] = devresults;\n            clients.push(dev);\n \n            flow.set(\"ping-clients\", reconfig);\n            flow.set(\"ping-results\", results);\n            context.set(\"data1\", null);\n            context.set(\"data2\", null);\n            context.set(\"data3\", null);\n            context.set(\"data4\", null);\n            context.set(\"data5\", null);\n        } else {\n            return;\n        }\n    }\n\nreturn [{payload:Object.values(reconfig)},msg, data6];",
+        "func": "let data1 = context.get(\"data1\") || null; //get from context or default to null\nlet data2 = context.get(\"data2\") || null; //get from context or default to null\nlet data3 = context.get(\"data3\") || null; //get from context or default to null\nlet data4 = context.get(\"data4\") || null; //get from context or default to null\nlet data5 = context.get(\"data5\") || null; //get from context or default to null\nlet data6 = context.get(\"data6\") || null; //get from context or default to null\n\nlet reconfig = flow.get(\"ping-clients\") || {};\nlet results = flow.get(\"ping-results\") || {};\n\nswitch (msg.topic){\n\n    case \"name\":\n        data1 = msg.payload;\n        context.set(\"data1\", data1);//store in context for next time \n        return;\n\n    case \"ip\":\n        data2 = msg.payload;\n        context.set(\"data2\", data2);//store in context for next time \n        return;\n    \n    case \"interval\":\n        data3 = msg.payload; \n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"timeout\":\n        data4 = msg.payload;    \n        context.set(\"data4\", data4); //store in context for next time \n        return;\n\n    case \"notification\":\n        data5 = msg.payload;\n        context.set(\"data5\", data5); //store in context for next time \n        return;\n        \n    case \"save\":\n        data6 = { payload: msg.topic };\n        if ((data1 !== null) && (data2 !== null) && (data3 !== null) && (data4 !== null) && (data5 !== null)) { \n            let clients = [];\n            let dev = reconfig[data2]  || {};\n            let devresults = results[data2] || {};\n            \n            dev.name = data1;\n            devresults.name = data1;\n            dev.ip = data2;\n            dev.port = \"N/A\"\n            devresults.ip = data2;\n            if (data3 > 1) {\n              dev.interval = data3 + \" minutes\";\n            } else {\n              dev.interval = data3 + \" minute\";\n            }\n            dev.intervalms = (data3 * 60000);\n            dev.timeout = data4;\n            dev.notification = data5;\n            dev.editbutton = '<button type=\"button\">Edit</button>'\n            \n            // write back\n            reconfig[data2] = dev;\n            results[data2] = devresults;\n            clients.push(dev);\n \n            flow.set(\"ping-clients\", reconfig);\n            flow.set(\"ping-results\", results);\n            context.set(\"data1\", null);\n            context.set(\"data2\", null);\n            context.set(\"data3\", null);\n            context.set(\"data4\", null);\n            context.set(\"data5\", null);\n        } else {\n            return;\n        }\n    }\n\nreturn [{ payload: Object.values(reconfig) }, msg, data6];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -747,21 +666,21 @@
         "y": 200,
         "wires": [
             [
-                "20bb43b81cbf18ea"
+                "2467ec7cf698f8f7"
             ],
             [
-                "88d36ba77e7812e5"
+                "64fb920d2cf69ea9"
             ],
             [
-                "95fdc48cce829d71"
+                "8b5ea82d145ec4eb"
             ]
         ]
     },
     {
-        "id": "95fdc48cce829d71",
+        "id": "8b5ea82d145ec4eb",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "pauseType": "delay",
         "timeout": "500",
@@ -779,15 +698,15 @@
         "y": 260,
         "wires": [
             [
-                "f096c7dabee929a4"
+                "13cca1c9f739cf27"
             ]
         ]
     },
     {
-        "id": "f096c7dabee929a4",
+        "id": "13cca1c9f739cf27",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Clear",
         "func": "delete msg.payload;\nmsg.payload =\"\";\nreturn msg;",
         "outputs": 1,
@@ -799,15 +718,15 @@
         "y": 300,
         "wires": [
             [
-                "0fb78eeb08558d5c"
+                "a11a82588c7271b2"
             ]
         ]
     },
     {
-        "id": "20bb43b81cbf18ea",
+        "id": "2467ec7cf698f8f7",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "property": "payload",
         "action": "",
@@ -816,15 +735,15 @@
         "y": 180,
         "wires": [
             [
-                "80ae2970672fd1bb"
+                "b0a92d6a8fb30fce"
             ]
         ]
     },
     {
-        "id": "80ae2970672fd1bb",
+        "id": "b0a92d6a8fb30fce",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Get save location",
         "func": "let destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-clients-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -836,15 +755,15 @@
         "y": 180,
         "wires": [
             [
-                "f394426619870863"
+                "fd149109e03da91d"
             ]
         ]
     },
     {
-        "id": "f394426619870863",
+        "id": "fd149109e03da91d",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Save to file",
         "filename": "filename",
         "filenameType": "msg",
@@ -858,10 +777,10 @@
         ]
     },
     {
-        "id": "2f156f97aaccb4f9",
+        "id": "f817febafa2e2ec9",
         "type": "inject",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "props": [
             {
@@ -883,15 +802,15 @@
         "y": 2160,
         "wires": [
             [
-                "c190d0b3a3813f0e"
+                "1a17beb47391b046"
             ]
         ]
     },
     {
-        "id": "27dd5e6a18a7eb3e",
+        "id": "30ac23dad2ddc07e",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Get save location pi",
         "func": "let destination = msg.payload;\nmsg.filename = destination + \"/testPIdirectory\";\nflow.set(\"savefiledestination\", destination);\nmsg.delay = 5000;\n\nreturn msg;",
         "outputs": 1,
@@ -903,34 +822,34 @@
         "y": 2200,
         "wires": [
             [
-                "d68fb14d48e61bf7"
+                "c212deb3835f4c46"
             ]
         ]
     },
     {
-        "id": "dc02e793799b1369",
+        "id": "48e7d2edc867c8dc",
         "type": "catch",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "scope": [
             "7ee6eacc2a5d9cd1",
-            "d68fb14d48e61bf7"
+            "c212deb3835f4c46"
         ],
         "uncaught": false,
         "x": 210,
         "y": 2240,
         "wires": [
             [
-                "1fe10d0807c6c1a5"
+                "53e61568675bdbd7"
             ]
         ]
     },
     {
-        "id": "95b7e5bdcdd91047",
+        "id": "e81b6e98f6523df9",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Get save location docker",
         "func": "let destination = msg.payload;\nmsg.filename = destination + \"/testDOCKERdirectory\";\nflow.set(\"savefiledestination\", destination);\nmsg.delay = 5000;\n\nreturn msg;",
         "outputs": 1,
@@ -942,50 +861,50 @@
         "y": 2240,
         "wires": [
             [
-                "32cd38e73694f99d"
+                "d30d268db0d190ec"
             ]
         ]
     },
     {
-        "id": "ef26d5ca6245bc11",
+        "id": "6f0aacad3197c943",
         "type": "catch",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "scope": [
             "082e0f0318b184c7",
-            "32cd38e73694f99d"
+            "d30d268db0d190ec"
         ],
         "uncaught": false,
         "x": 210,
         "y": 2280,
         "wires": [
             [
-                "8b1f9ea558998302"
+                "5019b114fc441426"
             ]
         ]
     },
     {
-        "id": "a671bac90582e879",
+        "id": "cc2b5b71f0e2aaac",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Ping tool, Start after deploy",
         "mode": "link",
         "links": [
-            "5cee2d0bee19588f",
-            "b22aaaba297dc35f",
-            "a4dfa011236a19d5"
+            "b2bcc577e6c9c540",
+            "22373071c84e9b2c",
+            "e7f3d7a68e227fba"
         ],
         "x": 935,
         "y": 2160,
         "wires": []
     },
     {
-        "id": "8b1f9ea558998302",
+        "id": "5019b114fc441426",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Error find directory",
         "func": "let error = \"ERROR, directory PI and DOCKER not found\"\nflow.set(\"savefiledestination\", error);\nreturn;",
         "outputs": 1,
@@ -997,32 +916,32 @@
         "y": 2280,
         "wires": [
             [
-                "459c4703a6a59d4f"
+                "a0c0c0080beb4363"
             ]
         ]
     },
     {
-        "id": "bb849d5256e829c7",
+        "id": "f0ba8d7f10def91b",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Ping tool, start UI",
         "mode": "link",
         "links": [
             "f6178536c8704c1a",
-            "20509a6dbd8d596a",
-            "7ac67bc0daa3b390",
-            "24b8247762331bc4"
+            "adc79ba653b9050f",
+            "cf81bc155ba0dcde",
+            "8a6bb0c24630fb56"
         ],
         "x": 1435,
         "y": 2280,
         "wires": []
     },
     {
-        "id": "459c4703a6a59d4f",
+        "id": "a0c0c0080beb4363",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "reset delay",
         "func": "delete msg.delay;\ndelete msg.error;\nmsg.reset = true;\nreturn msg;",
         "outputs": 1,
@@ -1034,15 +953,15 @@
         "y": 2280,
         "wires": [
             [
-                "24cde94bcbfe966e"
+                "9c57b09a4fcc718f"
             ]
         ]
     },
     {
-        "id": "24cde94bcbfe966e",
+        "id": "9c57b09a4fcc718f",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "pauseType": "delayv",
         "timeout": "5",
@@ -1060,15 +979,15 @@
         "y": 2280,
         "wires": [
             [
-                "bb849d5256e829c7"
+                "f0ba8d7f10def91b"
             ]
         ]
     },
     {
-        "id": "c190d0b3a3813f0e",
+        "id": "1a17beb47391b046",
         "type": "http request",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "method": "GET",
         "ret": "txt",
@@ -1085,15 +1004,15 @@
         "y": 2160,
         "wires": [
             [
-                "0071d41df72d840c"
+                "f3877b34982a22dc"
             ]
         ]
     },
     {
-        "id": "0071d41df72d840c",
+        "id": "f3877b34982a22dc",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "",
         "property": "payload",
         "action": "",
@@ -1102,15 +1021,15 @@
         "y": 2160,
         "wires": [
             [
-                "e70361bbe115a06c"
+                "da6d4389bb110713"
             ]
         ]
     },
     {
-        "id": "e70361bbe115a06c",
+        "id": "da6d4389bb110713",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Get version",
         "func": "flow.set(\"NoderedVersion\",msg.payload.version);\nmsg.payload = new(Date);\nreturn msg;",
         "outputs": 1,
@@ -1122,16 +1041,16 @@
         "y": 2160,
         "wires": [
             [
-                "a671bac90582e879",
-                "8e09d2d5f66f59ab"
+                "cc2b5b71f0e2aaac",
+                "45204b9d5854f8c8"
             ]
         ]
     },
     {
-        "id": "d68fb14d48e61bf7",
+        "id": "c212deb3835f4c46",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "V3 Pi, test directory exists",
         "filename": "filename",
         "filenameType": "msg",
@@ -1143,15 +1062,15 @@
         "y": 2200,
         "wires": [
             [
-                "24cde94bcbfe966e"
+                "9c57b09a4fcc718f"
             ]
         ]
     },
     {
-        "id": "32cd38e73694f99d",
+        "id": "d30d268db0d190ec",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "V3 Docker, test directory exists",
         "filename": "filename",
         "filenameType": "msg",
@@ -1163,15 +1082,15 @@
         "y": 2240,
         "wires": [
             [
-                "24cde94bcbfe966e"
+                "9c57b09a4fcc718f"
             ]
         ]
     },
     {
-        "id": "186ebb5237f6a498",
+        "id": "4a9dcdcb6ce78c42",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "property": "payload",
         "action": "",
@@ -1180,15 +1099,15 @@
         "y": 2380,
         "wires": [
             [
-                "fc1ddd8fd3351a58"
+                "5cdab53b1f50821a"
             ]
         ]
     },
     {
-        "id": "53ef89e44d892d60",
+        "id": "6c339e319be6d740",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "flow.set ping-clients",
         "func": "let store =  msg.payload;\nflow.set(\"ping-clients\", store);\nreturn [{payload:Object.values(store)}];",
         "outputs": 1,
@@ -1200,15 +1119,15 @@
         "y": 2380,
         "wires": [
             [
-                "96d32721777fe317"
+                "d3702ba43792c8ae"
             ]
         ]
     },
     {
-        "id": "fc1ddd8fd3351a58",
+        "id": "5cdab53b1f50821a",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Payload2Object",
         "func": "let store = msg.payload;\nlet msg2 = Object.assign({}, store);\nreturn [{payload:(msg2)}];",
         "outputs": 1,
@@ -1220,15 +1139,15 @@
         "y": 2380,
         "wires": [
             [
-                "6fa5ce147e3cb4fa"
+                "160c0d2d17742351"
             ]
         ]
     },
     {
-        "id": "6fa5ce147e3cb4fa",
+        "id": "160c0d2d17742351",
         "type": "split",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "splt": "\\n",
         "spltType": "str",
@@ -1240,17 +1159,17 @@
         "y": 2380,
         "wires": [
             [
-                "29920f3c79d91540"
+                "e95df38e60553db0"
             ]
         ]
     },
     {
-        "id": "29920f3c79d91540",
+        "id": "e95df38e60553db0",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "client2topic",
-        "func": "let value = msg.payload.ip\nmsg.topic = value;\nreturn msg;",
+        "func": "let value = msg.payload.ip\nmsg.topic = value;\n\nlet results = flow.get(\"ping-results\") || {};\nlet devresults = results[value] || {};\ndevresults.name = msg.payload.name;\ndevresults.ip = msg.payload.ip;\n// write back\nresults[value] = devresults;\nflow.set(\"ping-results\", results);\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -1260,15 +1179,15 @@
         "y": 2380,
         "wires": [
             [
-                "a3649a13ae2fb0e7"
+                "539a91ea417f7510"
             ]
         ]
     },
     {
-        "id": "a3649a13ae2fb0e7",
+        "id": "539a91ea417f7510",
         "type": "join",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "mode": "custom",
         "build": "object",
@@ -1289,29 +1208,29 @@
         "y": 2380,
         "wires": [
             [
-                "53ef89e44d892d60"
+                "6c339e319be6d740"
             ]
         ]
     },
     {
-        "id": "96d32721777fe317",
+        "id": "d3702ba43792c8ae",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Ping tool, Restore client table (read file)",
         "mode": "link",
         "links": [
-            "1c4cc5d24394c66e"
+            "df48d70d959be24f"
         ],
         "x": 1715,
         "y": 2380,
         "wires": []
     },
     {
-        "id": "27f567cfbd9e26d1",
+        "id": "1c6719532fd813a9",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Get save location",
         "func": "delete msg.payload;\nlet destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-clients-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -1323,33 +1242,33 @@
         "y": 2380,
         "wires": [
             [
-                "3be94ff5337a4670"
+                "f38c0c07b19553f2"
             ]
         ]
     },
     {
-        "id": "20509a6dbd8d596a",
+        "id": "adc79ba653b9050f",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Ping tool, start UI",
         "links": [
-            "bb849d5256e829c7"
+            "f0ba8d7f10def91b"
         ],
         "x": 155,
         "y": 2380,
         "wires": [
             [
-                "27f567cfbd9e26d1",
-                "9c42e0ab6739ed28"
+                "1c6719532fd813a9",
+                "4b7304f5dc110112"
             ]
         ]
     },
     {
-        "id": "3be94ff5337a4670",
+        "id": "f38c0c07b19553f2",
         "type": "file in",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Read backup",
         "filename": "filename",
         "filenameType": "msg",
@@ -1362,15 +1281,15 @@
         "y": 2380,
         "wires": [
             [
-                "186ebb5237f6a498"
+                "4a9dcdcb6ce78c42"
             ]
         ]
     },
     {
-        "id": "d16efd4c81f384d1",
+        "id": "b1ebb829a5e1ca1a",
         "type": "inject",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "clear backup file",
         "props": [
             {
@@ -1392,15 +1311,15 @@
         "y": 140,
         "wires": [
             [
-                "80ae2970672fd1bb"
+                "b0a92d6a8fb30fce"
             ]
         ]
     },
     {
-        "id": "df2d538d9846a5f8",
+        "id": "55e1c2243ed9a00b",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Prepare for device table",
         "func": "let devs = flow.get(\"ping-clients\") || {};\nreturn [{payload:Object.values(devs)}];",
         "outputs": 1,
@@ -1412,16 +1331,16 @@
         "y": 460,
         "wires": [
             [
-                "1f973fc071621a48"
+                "5a2e9fa3a8e436cf"
             ]
         ]
     },
     {
-        "id": "1f973fc071621a48",
+        "id": "5a2e9fa3a8e436cf",
         "type": "ui_table",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
-        "group": "d33ea1387fe714ae",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
+        "group": "dac2721519016a48",
         "name": "Ping clients tabel",
         "order": 7,
         "width": 18,
@@ -1480,7 +1399,7 @@
             {
                 "field": "notification",
                 "title": "notification",
-                "width": "14%",
+                "width": "13%",
                 "align": "center",
                 "formatter": "plaintext",
                 "formatterParams": {
@@ -1504,15 +1423,15 @@
         "y": 480,
         "wires": [
             [
-                "ab693303419462bd"
+                "412fdfce20f6c852"
             ]
         ]
     },
     {
-        "id": "ab693303419462bd",
+        "id": "412fdfce20f6c852",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Prefix for asking del?",
         "func": "if (msg.topic === \"del\") {\n    flow.set(\"delbuffer\", msg.payload)\n    \n    msg.topic = \"Client ping tabel: Delete \" + msg.payload.name + \" client?\";\n    msg.payload = \"Do you want to remove this device out the client ping list?\"\nreturn [msg, null, null];    \n}\n\nif (msg.topic ===\"editbutton\") {\n    return [null, msg, null];    \n}\n\n\nmsg.topic = msg.payload.name + \" (ip:\" + msg.payload.ip + \")\";\n\nlet str = JSON.stringify(msg.payload, null, 2);\ndelete msg.payload;\nmsg.payload = \"<pre>\" + str + \"</pre>\";\n\nreturn [null, null, msg];",
         "outputs": 3,
@@ -1524,21 +1443,21 @@
         "y": 540,
         "wires": [
             [
-                "f5cd39a40b034c84"
+                "3df003875fb9111e"
             ],
             [
-                "13abb43035f82c64"
+                "f6f61561ea7be543"
             ],
             [
-                "19b85cd44b620f8d"
+                "f2af0375bf07a2e1"
             ]
         ]
     },
     {
-        "id": "f5cd39a40b034c84",
+        "id": "3df003875fb9111e",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -1554,15 +1473,15 @@
         "y": 520,
         "wires": [
             [
-                "3b0fa39790409bef"
+                "69eb201b72270016"
             ]
         ]
     },
     {
-        "id": "3b0fa39790409bef",
+        "id": "69eb201b72270016",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Del in client ping tabel",
         "func": "if (msg.payload === \"Cancel\"){\n    flow.set(\"delbuffer\", \"\");\n    return;\n} else {\n    let clients = flow.get(\"ping-clients\") || {};\n    let results = flow.get(\"ping-results\") || {};\n    let remove = flow.get(\"delbuffer\")   \n\n    delete clients[remove.ip];\n    delete results[remove.ip];\n    \n    msg.topic = \"Removing client from list.\"\n    msg.payload = remove.name + \", is removed from client ping list.\";\n\n    let reconfig = flow.get(\"ping-clients\") || {}\n    flow.set(\"delbuffer\", \"\");\n    return [msg,{payload:Object.values(reconfig)}];\n}",
         "outputs": 2,
@@ -1574,19 +1493,19 @@
         "y": 540,
         "wires": [
             [
-                "b983d05b9e3dada5",
-                "4a02efc06a3d2be9"
+                "e42a7372272aca21",
+                "ee549fc8a0f25068"
             ],
             [
-                "a06904a5184284b1"
+                "68a3faa121e42b70"
             ]
         ]
     },
     {
-        "id": "19b85cd44b620f8d",
+        "id": "f2af0375bf07a2e1",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -1605,10 +1524,10 @@
         ]
     },
     {
-        "id": "b983d05b9e3dada5",
+        "id": "e42a7372272aca21",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -1627,15 +1546,15 @@
         ]
     },
     {
-        "id": "4a02efc06a3d2be9",
+        "id": "ee549fc8a0f25068",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Ping tool, Restore in (client ping table)",
         "mode": "link",
         "links": [
-            "1c4cc5d24394c66e",
-            "500ee8f1f9c1a6b3",
+            "df48d70d959be24f",
+            "bc69e6bce4f3862c",
             "eaf9b1c9009f05e7"
         ],
         "x": 1195,
@@ -1643,29 +1562,29 @@
         "wires": []
     },
     {
-        "id": "1c4cc5d24394c66e",
+        "id": "df48d70d959be24f",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Ping tool, restore client table out",
         "links": [
-            "4a02efc06a3d2be9",
-            "88d36ba77e7812e5",
-            "96d32721777fe317"
+            "ee549fc8a0f25068",
+            "64fb920d2cf69ea9",
+            "d3702ba43792c8ae"
         ],
         "x": 155,
         "y": 460,
         "wires": [
             [
-                "df2d538d9846a5f8"
+                "55e1c2243ed9a00b"
             ]
         ]
     },
     {
-        "id": "a06904a5184284b1",
+        "id": "68a3faa121e42b70",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "",
         "property": "payload",
         "action": "",
@@ -1674,15 +1593,15 @@
         "y": 560,
         "wires": [
             [
-                "887ec2695dd0806e"
+                "9f7143fbd1c1a75c"
             ]
         ]
     },
     {
-        "id": "a546d0a0950830c9",
+        "id": "ef2ad954ed0f8af4",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Save to file",
         "filename": "filename",
         "filenameType": "msg",
@@ -1696,10 +1615,10 @@
         ]
     },
     {
-        "id": "887ec2695dd0806e",
+        "id": "9f7143fbd1c1a75c",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Get save location",
         "func": "let destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-clients-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -1711,29 +1630,29 @@
         "y": 560,
         "wires": [
             [
-                "a546d0a0950830c9"
+                "ef2ad954ed0f8af4"
             ]
         ]
     },
     {
-        "id": "88d36ba77e7812e5",
+        "id": "64fb920d2cf69ea9",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Ping tool, Restore client table",
         "mode": "link",
         "links": [
-            "1c4cc5d24394c66e"
+            "df48d70d959be24f"
         ],
         "x": 975,
         "y": 220,
         "wires": []
     },
     {
-        "id": "9e18815f4def0880",
+        "id": "1f5f5f58491aed43",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Edit",
         "func": "let data1 = { payload: msg.payload.name };\nlet data2 = { payload: msg.payload.ip };\nlet data3 = { payload: (msg.payload.intervalms / 60000) };\nlet data4 = { payload: msg.payload.timeout };\nlet data5 = { payload: msg.payload.notification };\nreturn [data1, data2, data3, data4, data5];",
         "outputs": 5,
@@ -1745,38 +1664,38 @@
         "y": 180,
         "wires": [
             [
-                "93f030c9ca9b9922"
+                "3a5a77add871428c"
             ],
             [
-                "3ed49a7c80ba5411"
+                "05c46393987e9194"
             ],
             [
-                "92ecd259daa0a10d"
+                "53de060928284d7d"
             ],
             [
-                "77ef375a35be5665"
+                "5f436d88509d84d2"
             ],
             [
-                "e1852376a35a7fc4"
+                "2052df2c4f961b94"
             ]
         ]
     },
     {
-        "id": "376817b0e8c1f652",
+        "id": "7aa9923868d01e2a",
         "type": "comment",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "Wat aanpassen bij een nieuwe release",
-        "info": "- De \"comment\" node van de release notes.\n- Node \"UPDATE RELEASE\", de versie in aanpassen.\n- Node \"SCRIPT VERSION\", de versie in aanpassen.\n- Op github de \"version\" file aanpassen.\n- Op github de \"releasenotes\" file aanpassen.",
+        "info": "- Node \"SCRIPT VERSION\", de versie in aanpassen.\n",
         "x": 290,
         "y": 2720,
         "wires": []
     },
     {
-        "id": "1a81ed91df39bdb0",
+        "id": "9722819796be57a5",
         "type": "comment",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "Welke modules installeren voor deze flow",
         "info": "Via manage pallette, onderstaande modules toevoegen\n- node-red-dashboard\n- node-red-node-ui-table",
         "x": 300,
@@ -1784,11 +1703,11 @@
         "wires": []
     },
     {
-        "id": "5c9ac8f9228f8078",
+        "id": "c780f69af990ac7d",
         "type": "ui_text",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
-        "group": "d33ea1387fe714ae",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
+        "group": "dac2721519016a48",
         "order": 1,
         "width": 24,
         "height": 2,
@@ -1802,10 +1721,10 @@
         "wires": []
     },
     {
-        "id": "2077ab681c68f868",
+        "id": "29c4cf9aed2e18db",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "get file location",
         "func": "let location = flow.get(\"savefiledestination\")\nmsg.payload = \"<center>Data save folder: \" + location + \"</center>\"\nmsg.topic = \"Actuel version: <b>V1_18-05-2023_R1</b>\"\nreturn msg;",
         "outputs": 1,
@@ -1817,15 +1736,15 @@
         "y": 2620,
         "wires": [
             [
-                "c403766a737f409b"
+                "797f472cbb68e6b5"
             ]
         ]
     },
     {
-        "id": "d6a1925400cf10f7",
+        "id": "678b138e5c386f71",
         "type": "comment",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "Save data locaties",
         "info": "Native system:\n/home/pi/domoticz/plugins/ping-tool\n\nDocker system:\n/data/saved-files/ping-tool",
         "x": 230,
@@ -1833,27 +1752,27 @@
         "wires": []
     },
     {
-        "id": "7ac67bc0daa3b390",
+        "id": "cf81bc155ba0dcde",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "Ping tool, start UI text bar",
         "links": [
-            "bb849d5256e829c7"
+            "f0ba8d7f10def91b"
         ],
         "x": 155,
         "y": 2620,
         "wires": [
             [
-                "2077ab681c68f868"
+                "29c4cf9aed2e18db"
             ]
         ]
     },
     {
-        "id": "dfa765da5da3a9a2",
+        "id": "ca90baf0a86dc3c2",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "start after deploy",
         "func": "let location = \"please wait, loading config\"\nmsg.payload = \"Data save folder: \" + location\nreturn msg;",
         "outputs": 1,
@@ -1865,22 +1784,22 @@
         "y": 2660,
         "wires": [
             [
-                "c403766a737f409b"
+                "797f472cbb68e6b5"
             ]
         ]
     },
     {
-        "id": "c403766a737f409b",
+        "id": "797f472cbb68e6b5",
         "type": "change",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "SCRIPT VERSION",
         "rules": [
             {
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "Actual ping-tool version: V1_11-05-2024_R1",
+                "to": "Actual ping-tool version: V1_12-05-2024_R1",
                 "tot": "str"
             }
         ],
@@ -1893,32 +1812,32 @@
         "y": 2640,
         "wires": [
             [
-                "5c9ac8f9228f8078"
+                "c780f69af990ac7d"
             ]
         ]
     },
     {
-        "id": "b22aaaba297dc35f",
+        "id": "22373071c84e9b2c",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "80841f84be12309d",
+        "z": "166b3f5d22a2184b",
+        "g": "562046fbd09ca898",
         "name": "Ping tool, startup",
         "links": [
-            "a671bac90582e879"
+            "cc2b5b71f0e2aaac"
         ],
         "x": 155,
         "y": 2660,
         "wires": [
             [
-                "dfa765da5da3a9a2"
+                "ca90baf0a86dc3c2"
             ]
         ]
     },
     {
-        "id": "1fe10d0807c6c1a5",
+        "id": "53e61568675bdbd7",
         "type": "change",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Docker file save location",
         "rules": [
             {
@@ -1938,16 +1857,16 @@
         "y": 2240,
         "wires": [
             [
-                "95b7e5bdcdd91047",
-                "459c4703a6a59d4f"
+                "e81b6e98f6523df9",
+                "a0c0c0080beb4363"
             ]
         ]
     },
     {
-        "id": "8e09d2d5f66f59ab",
+        "id": "45204b9d5854f8c8",
         "type": "change",
-        "z": "778214a986683b78",
-        "g": "b75b934756c70f9c",
+        "z": "166b3f5d22a2184b",
+        "g": "2ee78d8d65f6b35e",
         "name": "Pi file save location",
         "rules": [
             {
@@ -1967,34 +1886,34 @@
         "y": 2200,
         "wires": [
             [
-                "27dd5e6a18a7eb3e"
+                "30ac23dad2ddc07e"
             ]
         ]
     },
     {
-        "id": "5cee2d0bee19588f",
+        "id": "b2bcc577e6c9c540",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Ping tool, clear on start",
         "links": [
-            "a671bac90582e879"
+            "cc2b5b71f0e2aaac"
         ],
         "x": 695,
         "y": 280,
         "wires": [
             [
-                "f096c7dabee929a4"
+                "13cca1c9f739cf27"
             ]
         ]
     },
     {
-        "id": "b886ee0597406762",
+        "id": "8eb49162ead0878a",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 13,
         "width": 6,
         "height": 1,
@@ -2013,35 +1932,35 @@
         "y": 360,
         "wires": [
             [
-                "f096c7dabee929a4"
+                "13cca1c9f739cf27"
             ]
         ]
     },
     {
-        "id": "c935aabb4cce4232",
+        "id": "5af081ee292919c6",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "Filter ping clients",
-        "func": "let d = new Date();\nlet clients = flow.get(\"ping-clients\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet clientslength = Object.keys(clients).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nif (msg.topic === \"manual\") {\n    manualtopic = true;\n} else {\n    manualtopic = false;\n}\n\n\nfor (let i = 0; i < clientslength; i++) {\n    let clientkeys = Object.keys(clients);\n    let clientIDkey = clientkeys[i];\n    let client = clients[clientIDkey] || {};\n\n    let intervalms = client.intervalms;\n    let timestampms;\n    \n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (client.ip === resultIDkey) {\n            if (results[client.ip].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[client.ip].timestampms;\n                \n            } else {\n                timestampms = 0;\n            }\n            if (manualtopic){\n                timestampms = 0;\n            }\n  \n            if (d.getTime() - timestampms > intervalms) {\n                msg.topic = client.ip;\n                msg.settings = client;\n                msg.payload = [\n                    {\n                        \"name\": client.name,\n                        \"host\": client.ip,\n                        \"port\": client.port\n                    },\n                ]\n                node.send(msg);\n            } \n        }\n    }    \n}\nreturn;",
+        "func": "let d = new Date();\nlet clients = flow.get(\"ping-clients\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet clientslength = Object.keys(clients).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nif (msg.topic === \"manual\") {\n    manualtopic = true;\n} else {\n    manualtopic = false;\n}\n\n\nfor (let i = 0; i < clientslength; i++) {\n    let clientkeys = Object.keys(clients);\n    let clientIDkey = clientkeys[i];\n    let client = clients[clientIDkey] || {};\n\n    let intervalms = client.intervalms;\n    let timestampms;\n    \n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (client.ip === resultIDkey) {\n            if (results[client.ip].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[client.ip].timestampms;\n                \n            } else {\n                timestampms = 0;\n            }\n              \n            if ((d.getTime() - timestampms > intervalms) || (manualtopic === true)) {\n                msg.topic = client.ip;\n                msg.settings = client;\n                msg.payload = [\n                    {\n                        \"name\": client.name,\n                        \"host\": client.ip,\n                        \"port\": client.port\n                    },\n                ]\n                node.send(msg);\n            } \n        }\n    }    \n}\nreturn;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 530,
+        "x": 510,
         "y": 1460,
         "wires": [
             [
-                "84d1f580c16ea2da"
+                "ff2b4b3a21dfed9c"
             ]
         ]
     },
     {
-        "id": "ae9dd7a57c2ce688",
+        "id": "4a115793fa97947c",
         "type": "inject",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "props": [
             {
@@ -2059,59 +1978,59 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 310,
+        "x": 290,
         "y": 1460,
         "wires": [
             [
-                "c935aabb4cce4232",
-                "5ebb20183ab87f27"
+                "5af081ee292919c6",
+                "f54ddb6f839d72bd"
             ]
         ]
     },
     {
-        "id": "d5bcfe939b763813",
+        "id": "b804687eedf11df4",
         "type": "ping",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "mode": "triggered",
         "name": "",
         "host": "",
         "timer": "20",
         "inputs": 1,
-        "x": 930,
+        "x": 910,
         "y": 1460,
         "wires": [
             [
-                "7b10b60b47851ddf"
+                "4d18512c8d23066f"
             ]
         ]
     },
     {
-        "id": "7b10b60b47851ddf",
+        "id": "4d18512c8d23066f",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "StoreResults",
-        "func": "let pingResults = flow.get(\"ping-results\") || {}\nlet thisPing = pingResults[msg.topic] || {};\nlet success = msg.payload !== false && msg.payload >= 0;\nvar error; \nvar msgerror;\nvar time;\n\n\nvar d=new Date();\nvar hours=d.getHours();\nvar minutes=d.getMinutes();\nif (hours <= 9) {\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (\"0\" + hours + \":\" + minutes)\n    } else {\n        time = (\"0\" + hours + \":\" + minutes)\n    }\n}else{\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (hours + \":\" + minutes)\n    } else {\n        time = (hours + \":\" + minutes)\n    }\n}\n        \nif (thisPing.error!==undefined) {\n    if(isNaN(thisPing.error)) {\n        thisPing.error = 0;\n    }\n    error = thisPing.error + 1;\n}\nif (thisPing.error===undefined) {\n    error = success ? 0 : 1 ;\n}\nif (thisPing.telegram===undefined) {\n    thisPing.telegram = \"standby\"\n}\n\nthisPing.name = msg.ping.name;\nthisPing.host = msg.ping.host;\nthisPing.port = msg.ping.port;\nthisPing.timestamp= success ? time : thisPing.timestamp ;\nthisPing.timestampms = d.getTime();\nthisPing.responseTime = success ? msg.payload : null;\nthisPing.state = success ? true : false ;\nthisPing.error = success ? 0 : error ; \n\n\npingResults[msg.topic] = thisPing;//store ping obj in pingResults\nflow.set(\"ping-results\",pingResults);//save pingResults in flow context\n\nmsg.payload = thisPing;\nreturn msg;",
+        "func": "let pingResults = flow.get(\"ping-results\") || {}\nlet thisPing = pingResults[msg.topic] || {};\nlet success = msg.payload !== false && msg.payload >= 0;\nvar error; \nvar msgerror;\nvar time;\n\n\nvar d=new Date();\nvar hours=d.getHours();\nvar minutes=d.getMinutes();\nif (hours <= 9) {\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (\"0\" + hours + \":\" + minutes)\n    } else {\n        time = (\"0\" + hours + \":\" + minutes)\n    }\n}else{\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (hours + \":\" + minutes)\n    } else {\n        time = (hours + \":\" + minutes)\n    }\n}\n        \nif (thisPing.error!==undefined) {\n    if(isNaN(thisPing.error)) {\n        thisPing.error = 0;\n    }\n    error = thisPing.error + 1;\n}\nif (thisPing.error===undefined) {\n    error = success ? 0 : 1 ;\n}\nif (thisPing.telegram===undefined) {\n    thisPing.telegram = \"standby\"\n}\n\nthisPing.name = msg.ping.name;\nthisPing.port = msg.ping.port;\nthisPing.timestamp= success ? time : thisPing.timestamp ;\nthisPing.timestampms = d.getTime();\nthisPing.interval = msg.settings.interval;\nthisPing.timeout = msg.settings.timeout;\nthisPing.notification = msg.settings.notification;\nthisPing.responseTime = success ? msg.payload : null;\nthisPing.state = success ? true : false ;\nthisPing.error = success ? 0 : error ; \n\n\npingResults[msg.topic] = thisPing;//store ping obj in pingResults\nflow.set(\"ping-results\",pingResults);//save pingResults in flow context\n\nmsg.payload = thisPing;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1110,
+        "x": 1090,
         "y": 1460,
         "wires": [
             [
-                "b727f1326c27c11c",
-                "101651f7938ec76a"
+                "d2dffb94981b7e0b",
+                "ae2fffa6ec0b3d72"
             ]
         ]
     },
     {
-        "id": "b727f1326c27c11c",
+        "id": "d2dffb94981b7e0b",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "pauseType": "delay",
         "timeout": "2",
@@ -2125,19 +2044,19 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1300,
+        "x": 1280,
         "y": 1540,
         "wires": [
             [
-                "fdd6ab05593d7d57"
+                "cef74d9ddefe72a3"
             ]
         ]
     },
     {
-        "id": "fdd6ab05593d7d57",
+        "id": "cef74d9ddefe72a3",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "Prepare for table",
         "func": "let devs = flow.get(\"ping-results\") || {};\nreturn [{payload:Object.values(devs)}];",
         "outputs": 1,
@@ -2145,26 +2064,26 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1490,
+        "x": 1470,
         "y": 1540,
         "wires": [
             [
-                "16b8292ef3e224ac"
+                "45509c83c4050295"
             ]
         ]
     },
     {
-        "id": "16b8292ef3e224ac",
+        "id": "45509c83c4050295",
         "type": "change",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "ui_control",
         "rules": [
             {
                 "t": "set",
                 "p": "ui_control",
                 "pt": "msg",
-                "to": "{\"tabulator\":{\"columns\":[{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"name\",\"field\":\"name\",\"width\":\"24%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"ip-address\",\"field\":\"host\",\"width\":\"19%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"port\",\"field\":\"port\",\"width\":\"8%\",\"align\":\"center\"},{\"formatterParams\":{\"allowEmpty\":true,\"allowTruthy\":true,\"tickElement\":\"<i class='fa fa-check'></i>\",\"crossElement\":\"<i class='fa fa-times'></i>\"},\"title\":\"status\",\"field\":\"state\",\"formatter\":\"tickCross\",\"width\":\"8%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"response (ms)\",\"field\":\"responseTime\",\"width\":\"11.5%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"timeout counter\",\"field\":\"error\",\"width\":\"15%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"last ping\",\"field\":\"timestamp\",\"width\":\"8%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"telegram\",\"field\":\"telegram\",\"width\":100,\"align\":\"center\"}],\"rowFormatter\":\"function(row) { var data = row.getData(); if(data.error > 0) {row.getElement().style.backgroundColor = '#FF0000';} }\"}}",
+                "to": "{\"tabulator\":{\"columns\":[{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"name\",\"field\":\"name\",\"width\":\"21.75%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"ip-address\",\"field\":\"host\",\"width\":\"10%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"port\",\"field\":\"port\",\"width\":\"6%\",\"align\":\"center\"},{\"formatterParams\":{\"allowEmpty\":true,\"allowTruthy\":true,\"tickElement\":\"<i class='fa fa-check'></i>\",\"crossElement\":\"<i class='fa fa-times'></i>\"},\"title\":\"status\",\"field\":\"state\",\"formatter\":\"tickCross\",\"width\":\"6%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"response (ms)\",\"field\":\"responseTime\",\"width\":\"10%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"timeout counter\",\"field\":\"error\",\"width\":\"11%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"timeout setup\",\"field\":\"timeout\",\"width\":\"10%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"last ping\",\"field\":\"timestamp\",\"width\":\"8%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"ping interval\",\"field\":\"interval\",\"width\":\"10%\",\"align\":\"center\"},{\"formatterParams\":{\"target\":\"_blank\"},\"title\":\"telegram\",\"field\":\"telegram\",\"width\":\"8%\",\"align\":\"center\"}],\"rowFormatter\":\"function(row) { var data = row.getData(); if(data.error > 0) {row.getElement().style.backgroundColor = '#FF0000';} }\"}}",
                 "tot": "json"
             }
         ],
@@ -2173,54 +2092,58 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1680,
+        "x": 1660,
         "y": 1540,
         "wires": [
             [
-                "4f925ab2bc3453d5"
+                "cf13d066c0b57dd8"
             ]
         ]
     },
     {
-        "id": "4f925ab2bc3453d5",
+        "id": "cf13d066c0b57dd8",
         "type": "ui_table",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
-        "group": "d33ea1387fe714ae",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
+        "group": "dac2721519016a48",
         "name": "",
         "order": 4,
         "width": 24,
         "height": 10,
         "columns": [],
-        "outputs": 0,
-        "cts": false,
-        "x": 1830,
-        "y": 1540,
-        "wires": []
-    },
-    {
-        "id": "500ee8f1f9c1a6b3",
-        "type": "link in",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
-        "name": "Ping tool, update table",
-        "links": [
-            "4a02efc06a3d2be9",
-            "7a9ed34afcdb2aa5"
-        ],
-        "x": 1165,
+        "outputs": 1,
+        "cts": true,
+        "x": 1810,
         "y": 1540,
         "wires": [
             [
-                "fdd6ab05593d7d57"
+                "c05f3223354eb6df"
             ]
         ]
     },
     {
-        "id": "8bfe8fdeef353c41",
+        "id": "bc69e6bce4f3862c",
+        "type": "link in",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
+        "name": "Ping tool, update table",
+        "links": [
+            "ee549fc8a0f25068",
+            "713240bda3fccdf0"
+        ],
+        "x": 1145,
+        "y": 1540,
+        "wires": [
+            [
+                "cef74d9ddefe72a3"
+            ]
+        ]
+    },
+    {
+        "id": "81f85f93439f47f0",
         "type": "http request",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "method": "POST",
         "ret": "txt",
@@ -2231,17 +2154,17 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 1810,
+        "x": 1790,
         "y": 1500,
         "wires": [
             []
         ]
     },
     {
-        "id": "b7a28857c0a98769",
+        "id": "beb7bb9db7edfa83",
         "type": "change",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "rules": [
             {
@@ -2257,55 +2180,55 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1590,
+        "x": 1570,
         "y": 1500,
         "wires": [
             [
-                "8bfe8fdeef353c41"
+                "81f85f93439f47f0"
             ]
         ]
     },
     {
-        "id": "b1a6957eaefbe359",
+        "id": "037267be77a0c2c0",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "Ping tool, edit",
         "links": [
-            "13abb43035f82c64"
+            "f6f61561ea7be543"
         ],
         "x": 155,
         "y": 180,
         "wires": [
             [
-                "9e18815f4def0880"
+                "1f5f5f58491aed43"
             ]
         ]
     },
     {
-        "id": "13abb43035f82c64",
+        "id": "f6f61561ea7be543",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "0cc1a122e3835b03",
+        "z": "166b3f5d22a2184b",
+        "g": "5648f39f55395f07",
         "name": "Ping tool, edit",
         "mode": "link",
         "links": [
-            "b1a6957eaefbe359"
+            "037267be77a0c2c0"
         ],
         "x": 655,
         "y": 540,
         "wires": []
     },
     {
-        "id": "77ef375a35be5665",
+        "id": "5f436d88509d84d2",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "",
         "label": "max. timeouts",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 10,
         "width": 6,
         "height": 1,
@@ -2371,19 +2294,19 @@
         "y": 240,
         "wires": [
             [
-                "8f040507192075b7"
+                "b82b69e0154e728e"
             ]
         ]
     },
     {
-        "id": "812fe574dacb580b",
+        "id": "9b6de9192151b91e",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "Webpage name.",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 15,
         "width": 6,
         "height": 1,
@@ -2398,19 +2321,19 @@
         "y": 760,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "4cef924bf7f6e1d1",
+        "id": "04dc39754e4ea483",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "Webpage IP.",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 17,
         "width": 6,
         "height": 1,
@@ -2425,20 +2348,20 @@
         "y": 800,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "1f31cea12a0d0847",
+        "id": "f38c17542fb466f1",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "Ping interval.",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 19,
         "width": 6,
         "height": 1,
@@ -2499,17 +2422,17 @@
         "y": 880,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "071a77f8dec39117",
+        "id": "7dcbbe57dd5017d3",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 22,
         "width": 6,
         "height": 1,
@@ -2528,20 +2451,20 @@
         "y": 1000,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "49c82bad03bff8b0",
+        "id": "9d4e2b18d0b12c04",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "Telegram notify.",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 21,
         "width": 6,
         "height": 1,
@@ -2567,17 +2490,17 @@
         "y": 960,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "39ced3f1d9256718",
+        "id": "924cccacf98b7495",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Set webpage settings",
-        "func": "let data1 = context.get(\"data1\") || null; //get from context or default to null\nlet data2 = context.get(\"data2\") || null; //get from context or default to null\nlet data3 = context.get(\"data3\") || null; //get from context or default to null\nlet data4 = context.get(\"data4\") || null; //get from context or default to null\nlet data5 = context.get(\"data5\") || null; //get from context or default to null\nlet data6 = context.get(\"data6\") || null; //get from context or default to null\nlet data7 = context.get(\"data7\") || null; //get from context or default to null\n\nlet reconfig = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\n\nswitch (msg.topic){\n\n    case \"name\":\n        data1 = msg.payload;\n        context.set(\"data1\", data1);//store in context for next time \n        return;\n\n    case \"ip\":\n        data2 = msg.payload;\n        context.set(\"data2\", data2);//store in context for next time \n        return;\n    \n    case \"port\":\n        data3 = msg.payload;\n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"interval\":\n        data4 = msg.payload; \n        context.set(\"data4\", data4);//store in context for next time \n        return;\n\n    case \"timeout\":\n        data5 = msg.payload;    \n        context.set(\"data5\", data5); //store in context for next time \n        return;\n\n    case \"notification\":\n        data6 = msg.payload;\n        context.set(\"data6\", data6); //store in context for next time \n        return;\n        \n    case \"save\":\n        data7 = { payload: msg.topic };\n        if ((data1 !== null) && (data2 !== null) && (data3 !== null) && (data4 !== null) && (data5 !== null) && (data6 !== null)) { \n            let clients = [];\n            let dev = reconfig[data2]  || {};\n            let devresults = reconfig[data2] || {};\n            \n            dev.name = data1;\n            devresults.name = data1;\n            dev.ip = data2;\n            devresults.ip = data2;\n            dev.port = data3;\n            devresults.port = data3;\n            if (data4 > 1) {\n              dev.interval = data4 + \" minutes\";\n            } else {\n              dev.interval = data4 + \" minute\";\n            }\n            dev.intervalms = (data4 * 60000);\n            dev.timeout = data5;\n            dev.notification = data6;\n            dev.editbutton = '<button type=\"button\">Edit</button>'\n            \n            // write back\n            let url = data2 + \"-\" + data3;\n            reconfig[url] = dev;\n            results[url] = devresults;\n            clients.push(dev);\n \n            flow.set(\"ping-webpage\", reconfig);\n            flow.set(\"ping-results\", results);\n            context.set(\"data1\", null);\n            context.set(\"data2\", null);\n            context.set(\"data3\", null);\n            context.set(\"data4\", null);\n            context.set(\"data5\", null);\n            context.set(\"data6\", null);\n        } else {\n            return;\n        }\n    }\n\nreturn [{payload:Object.values(reconfig)},msg, data7];",
+        "func": "let data1 = context.get(\"data1\") || null; //get from context or default to null\nlet data2 = context.get(\"data2\") || null; //get from context or default to null\nlet data3 = context.get(\"data3\") || null; //get from context or default to null\nlet data4 = context.get(\"data4\") || null; //get from context or default to null\nlet data5 = context.get(\"data5\") || null; //get from context or default to null\nlet data6 = context.get(\"data6\") || null; //get from context or default to null\nlet data7 = context.get(\"data7\") || null; //get from context or default to null\n\nlet reconfig = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\n\nswitch (msg.topic){\n\n    case \"name\":\n        data1 = msg.payload;\n        context.set(\"data1\", data1);//store in context for next time \n        return;\n\n    case \"ip\":\n        data2 = msg.payload;\n        context.set(\"data2\", data2);//store in context for next time \n        return;\n    \n    case \"port\":\n        data3 = msg.payload;\n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"interval\":\n        data4 = msg.payload; \n        context.set(\"data4\", data4);//store in context for next time \n        return;\n\n    case \"timeout\":\n        data5 = msg.payload;    \n        context.set(\"data5\", data5); //store in context for next time \n        return;\n\n    case \"notification\":\n        data6 = msg.payload;\n        context.set(\"data6\", data6); //store in context for next time \n        return;\n        \n    case \"save\":\n        data7 = { payload: msg.topic };\n        if ((data1 !== null) && (data2 !== null) && (data3 !== null) && (data4 !== null) && (data5 !== null) && (data6 !== null)) { \n            let clients = [];\n            let dev = reconfig[data2]  || {};\n            let devresults = results[data2] || {};\n            \n            dev.name = data1;\n            devresults.name = data1;\n            dev.ip = data2;\n            devresults.ip = data2;\n            dev.port = data3;\n            devresults.port = data3;\n            if (data4 > 1) {\n              dev.interval = data4 + \" minutes\";\n            } else {\n              dev.interval = data4 + \" minute\";\n            }\n            dev.intervalms = (data4 * 60000);\n            dev.timeout = data5;\n            dev.notification = data6;\n            dev.editbutton = '<button type=\"button\">Edit</button>'\n            \n            // write back\n            let url = data2 + \"-\" + data3;\n            reconfig[url] = dev;\n            results[url] = devresults;\n            clients.push(dev);\n \n            flow.set(\"ping-webpage\", reconfig);\n            flow.set(\"ping-results\", results);\n            context.set(\"data1\", null);\n            context.set(\"data2\", null);\n            context.set(\"data3\", null);\n            context.set(\"data4\", null);\n            context.set(\"data5\", null);\n            context.set(\"data6\", null);\n        } else {\n            return;\n        }\n    }\n\nreturn [{payload:Object.values(reconfig)},msg, data7];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -2587,21 +2510,21 @@
         "y": 840,
         "wires": [
             [
-                "5df89392e95f89e3"
+                "1fec4bb2b36380d3"
             ],
             [
-                "8e9be4f1a0fea8b9"
+                "841036fe8490164a"
             ],
             [
-                "2e35a37775274627"
+                "9c1a66773a0f6172"
             ]
         ]
     },
     {
-        "id": "2e35a37775274627",
+        "id": "9c1a66773a0f6172",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "pauseType": "delay",
         "timeout": "500",
@@ -2619,15 +2542,15 @@
         "y": 900,
         "wires": [
             [
-                "0c9bbda2c6a44e4c"
+                "35e5e340494fedb5"
             ]
         ]
     },
     {
-        "id": "0c9bbda2c6a44e4c",
+        "id": "35e5e340494fedb5",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Clear",
         "func": "delete msg.payload;\nmsg.payload =\"\";\nreturn msg;",
         "outputs": 1,
@@ -2639,15 +2562,15 @@
         "y": 940,
         "wires": [
             [
-                "1d6642184d4df058"
+                "07ced5efe665ddad"
             ]
         ]
     },
     {
-        "id": "5df89392e95f89e3",
+        "id": "1fec4bb2b36380d3",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "property": "payload",
         "action": "",
@@ -2656,15 +2579,15 @@
         "y": 820,
         "wires": [
             [
-                "63f3954022ca8653"
+                "7feb7b1361276e26"
             ]
         ]
     },
     {
-        "id": "63f3954022ca8653",
+        "id": "7feb7b1361276e26",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Get save location",
         "func": "let destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-webpage-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -2676,15 +2599,15 @@
         "y": 820,
         "wires": [
             [
-                "68b7208ce00bad73"
+                "2dbba3a62beab87a"
             ]
         ]
     },
     {
-        "id": "68b7208ce00bad73",
+        "id": "2dbba3a62beab87a",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Save to file",
         "filename": "filename",
         "filenameType": "msg",
@@ -2698,10 +2621,10 @@
         ]
     },
     {
-        "id": "de2d5b0db79f97b7",
+        "id": "a3ce20fabd6a69b5",
         "type": "inject",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "clear backup file",
         "props": [
             {
@@ -2723,29 +2646,29 @@
         "y": 780,
         "wires": [
             [
-                "63f3954022ca8653"
+                "7feb7b1361276e26"
             ]
         ]
     },
     {
-        "id": "8e9be4f1a0fea8b9",
+        "id": "841036fe8490164a",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Ping tool, Restore webpage table",
         "mode": "link",
         "links": [
-            "800809ad6f690cbf"
+            "f9d95b3068658814"
         ],
         "x": 975,
         "y": 860,
         "wires": []
     },
     {
-        "id": "9abf2e28285ae991",
+        "id": "278153c919320662",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Edit",
         "func": "let data1 = { payload: msg.payload.name };\nlet data2 = { payload: msg.payload.ip };\nlet data3 = { payload: msg.payload.port };\nlet data4 = { payload: (msg.payload.intervalms / 60000) };\nlet data5 = { payload: msg.payload.timeout };\nlet data6 = { payload: msg.payload.notification };\nreturn [data1, data2, data3, data4, data5, data6];",
         "outputs": 6,
@@ -2757,49 +2680,49 @@
         "y": 820,
         "wires": [
             [
-                "812fe574dacb580b"
+                "9b6de9192151b91e"
             ],
             [
-                "4cef924bf7f6e1d1"
+                "04dc39754e4ea483"
             ],
             [
-                "ac6e7e2c98752764"
+                "39f027ac0d6c506b"
             ],
             [
-                "1f31cea12a0d0847"
+                "f38c17542fb466f1"
             ],
             [
-                "b0de92e31a2ce53b"
+                "76129508be2da943"
             ],
             [
-                "49c82bad03bff8b0"
+                "9d4e2b18d0b12c04"
             ]
         ]
     },
     {
-        "id": "a4dfa011236a19d5",
+        "id": "e7f3d7a68e227fba",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Ping tool, clear on start",
         "links": [
-            "a671bac90582e879"
+            "cc2b5b71f0e2aaac"
         ],
         "x": 695,
         "y": 920,
         "wires": [
             [
-                "0c9bbda2c6a44e4c"
+                "35e5e340494fedb5"
             ]
         ]
     },
     {
-        "id": "e4bcf7c746b569cd",
+        "id": "edafa76a59c05215",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 23,
         "width": 6,
         "height": 1,
@@ -2818,37 +2741,37 @@
         "y": 1040,
         "wires": [
             [
-                "0c9bbda2c6a44e4c"
+                "35e5e340494fedb5"
             ]
         ]
     },
     {
-        "id": "04eb3702929811e2",
+        "id": "fd30e4e865d35c4b",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "Ping tool, edit",
         "links": [
-            "541a6a4ce8439883"
+            "5ef12e6b84d7f406"
         ],
         "x": 155,
         "y": 820,
         "wires": [
             [
-                "9abf2e28285ae991"
+                "278153c919320662"
             ]
         ]
     },
     {
-        "id": "b0de92e31a2ce53b",
+        "id": "76129508be2da943",
         "type": "ui_dropdown",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "max. timeouts.",
         "tooltip": "",
         "place": "Select option",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 20,
         "width": 6,
         "height": 1,
@@ -2914,19 +2837,19 @@
         "y": 920,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "ac6e7e2c98752764",
+        "id": "39f027ac0d6c506b",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "",
         "label": "Webpage port.",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 18,
         "width": 6,
         "height": 1,
@@ -2941,17 +2864,17 @@
         "y": 840,
         "wires": [
             [
-                "39ced3f1d9256718"
+                "924cccacf98b7495"
             ]
         ]
     },
     {
-        "id": "23db672fdcd25e9b",
+        "id": "2381bdbd806c6bb9",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "0f988b06408393c4",
+        "z": "166b3f5d22a2184b",
+        "g": "416d372a1bf6f64e",
         "name": "clear line..",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 14,
         "width": 0,
         "height": 0,
@@ -2973,12 +2896,12 @@
         ]
     },
     {
-        "id": "b25c74f8babb77c5",
+        "id": "607a46d3d20b4579",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "3dfe4f44580720a3",
+        "z": "166b3f5d22a2184b",
+        "g": "d663ded32689f05e",
         "name": "clear line.",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 5,
         "width": 0,
         "height": 0,
@@ -3000,10 +2923,10 @@
         ]
     },
     {
-        "id": "bba6b5296a2a0248",
+        "id": "a4369902b5e8df07",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Prepare for device table",
         "func": "let devs = flow.get(\"ping-webpage\") || {};\nreturn [{payload:Object.values(devs)}];",
         "outputs": 1,
@@ -3015,16 +2938,16 @@
         "y": 1140,
         "wires": [
             [
-                "95c06c6bf40ead5c"
+                "986cb4c3cf5978c5"
             ]
         ]
     },
     {
-        "id": "95c06c6bf40ead5c",
+        "id": "986cb4c3cf5978c5",
         "type": "ui_table",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
-        "group": "d33ea1387fe714ae",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
+        "group": "dac2721519016a48",
         "name": "Ping webpage tabel",
         "order": 16,
         "width": 18,
@@ -3093,7 +3016,7 @@
             {
                 "field": "notification",
                 "title": "notification",
-                "width": "14%",
+                "width": "13%",
                 "align": "center",
                 "formatter": "plaintext",
                 "formatterParams": {
@@ -3117,15 +3040,15 @@
         "y": 1160,
         "wires": [
             [
-                "d4ce5c1eaa6aebe7"
+                "592916e91855a9a6"
             ]
         ]
     },
     {
-        "id": "d4ce5c1eaa6aebe7",
+        "id": "592916e91855a9a6",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Prefix for asking del?",
         "func": "if (msg.topic === \"del\") {\n    flow.set(\"delbuffer\", msg.payload)\n    \n    msg.topic = \"Client ping tabel: Delete \" + msg.payload.name + \" client?\";\n    msg.payload = \"Do you want to remove this device out the client ping list?\"\nreturn [msg, null, null];    \n}\n\nif (msg.topic ===\"editbutton\") {\n    return [null, msg, null];    \n}\n\n\nmsg.topic = msg.payload.name + \" (ip:\" + msg.payload.ip + \":\" + msg.payload.port + \")\";\n\nlet str = JSON.stringify(msg.payload, null, 2);\ndelete msg.payload;\nmsg.payload = \"<pre>\" + str + \"</pre>\";\n\nreturn [null, null, msg];",
         "outputs": 3,
@@ -3137,21 +3060,21 @@
         "y": 1220,
         "wires": [
             [
-                "9af68968873366bc"
+                "255e8d9d0276494e"
             ],
             [
-                "541a6a4ce8439883"
+                "5ef12e6b84d7f406"
             ],
             [
-                "ee8ce1442bba0448"
+                "6c97c70d221f2768"
             ]
         ]
     },
     {
-        "id": "9af68968873366bc",
+        "id": "255e8d9d0276494e",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -3167,15 +3090,15 @@
         "y": 1200,
         "wires": [
             [
-                "d6bd8af62cec222c"
+                "84d59da3cea343f3"
             ]
         ]
     },
     {
-        "id": "d6bd8af62cec222c",
+        "id": "84d59da3cea343f3",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Del in webpage ping tabel",
         "func": "if (msg.payload === \"Cancel\"){\n    flow.set(\"delbuffer\", \"\");\n    return;\n} else {\n    let webpage = flow.get(\"ping-webpage\") || {};\n    let results = flow.get(\"ping-results\") || {};\n    let remove = flow.get(\"delbuffer\")   \n\n    delete webpage[remove.ip + \"-\" + remove.port];\n    delete results[remove.ip + \"-\" + remove.port];\n    \n    msg.topic = \"Removing webpage from list.\"\n    msg.payload = remove.name + \", is removed from webpage ping list.\";\n\n    let reconfig = flow.get(\"ping-webpage\") || {}\n    flow.set(\"delbuffer\", \"\");\n    return [msg,{payload:Object.values(reconfig)}];\n}",
         "outputs": 2,
@@ -3187,19 +3110,19 @@
         "y": 1220,
         "wires": [
             [
-                "c0e729e9edab2038",
-                "7a9ed34afcdb2aa5"
+                "e6f9190b35582ec2",
+                "713240bda3fccdf0"
             ],
             [
-                "026cedb4c7dcb9af"
+                "80e17443febcad48"
             ]
         ]
     },
     {
-        "id": "ee8ce1442bba0448",
+        "id": "6c97c70d221f2768",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -3218,10 +3141,10 @@
         ]
     },
     {
-        "id": "c0e729e9edab2038",
+        "id": "e6f9190b35582ec2",
         "type": "ui_toast",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "position": "dialog",
         "displayTime": "3",
         "highlight": "",
@@ -3240,15 +3163,15 @@
         ]
     },
     {
-        "id": "7a9ed34afcdb2aa5",
+        "id": "713240bda3fccdf0",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Ping tool, Restore in (client ping table)",
         "mode": "link",
         "links": [
-            "800809ad6f690cbf",
-            "500ee8f1f9c1a6b3",
+            "f9d95b3068658814",
+            "bc69e6bce4f3862c",
             "eaf9b1c9009f05e7"
         ],
         "x": 1195,
@@ -3256,29 +3179,29 @@
         "wires": []
     },
     {
-        "id": "800809ad6f690cbf",
+        "id": "f9d95b3068658814",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Ping tool, restore webpage table out",
         "links": [
-            "4bf92364cba23ae4",
-            "7a9ed34afcdb2aa5",
-            "8e9be4f1a0fea8b9"
+            "c38f40f199c20a55",
+            "713240bda3fccdf0",
+            "841036fe8490164a"
         ],
         "x": 155,
         "y": 1140,
         "wires": [
             [
-                "bba6b5296a2a0248"
+                "a4369902b5e8df07"
             ]
         ]
     },
     {
-        "id": "026cedb4c7dcb9af",
+        "id": "80e17443febcad48",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "",
         "property": "payload",
         "action": "",
@@ -3287,15 +3210,15 @@
         "y": 1240,
         "wires": [
             [
-                "4ba3629f4950d7e2"
+                "2ccbf1329bfae2cc"
             ]
         ]
     },
     {
-        "id": "a7698f7f43aeb6bc",
+        "id": "a1bcb6a0a9a2a4de",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Save to file",
         "filename": "filename",
         "filenameType": "msg",
@@ -3309,10 +3232,10 @@
         ]
     },
     {
-        "id": "4ba3629f4950d7e2",
+        "id": "2ccbf1329bfae2cc",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Get save location",
         "func": "let destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-webpage-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -3324,29 +3247,29 @@
         "y": 1240,
         "wires": [
             [
-                "a7698f7f43aeb6bc"
+                "a1bcb6a0a9a2a4de"
             ]
         ]
     },
     {
-        "id": "541a6a4ce8439883",
+        "id": "5ef12e6b84d7f406",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "Ping tool, edit",
         "mode": "link",
         "links": [
-            "04eb3702929811e2"
+            "fd30e4e865d35c4b"
         ],
         "x": 655,
         "y": 1220,
         "wires": []
     },
     {
-        "id": "85b715f15d00f72d",
+        "id": "ea6e75af454187d9",
         "type": "http request",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "method": "GET",
         "ret": "txt",
@@ -3357,39 +3280,39 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 930,
+        "x": 910,
         "y": 1500,
         "wires": [
             [
-                "44c8f374afca77d0"
+                "346b57f79c06a589"
             ]
         ]
     },
     {
-        "id": "5ebb20183ab87f27",
+        "id": "f54ddb6f839d72bd",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "Filter ping webpages",
-        "func": "let d = new Date();\nlet webpages = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet webpageslength = Object.keys(webpages).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nif (msg.topic === \"manual\" ) {\n    manualtopic = true;\n} else {\n    manualtopic = false;\n}\n\nfor (let i = 0; i < webpageslength; i++) {\n    let webpagekeys = Object.keys(webpages);\n    let webpageIDkey = webpagekeys[i];\n    let webpage = webpages[webpageIDkey] || {};\n\n    let intervalms = webpage.intervalms;\n    let timestampms;\n\n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (webpage.ip + \"-\" + webpage.port === resultIDkey) {\n            if (results[webpage.ip + \"-\" + webpage.port].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[webpage.ip + \"-\" + webpage.port].timestampms;\n\n            } else {\n                timestampms = 0;\n            }\n            if (manualtopic) {\n                timestampms = 0;\n            }\n\n            if (d.getTime() - timestampms > intervalms) {\n                msg.topic = webpage.ip + \"-\" + webpage.port;\n                msg.name = webpage.name;\n                msg.startping = d.getTime();\n                msg.settings = webpage;\n                msg.payload = [\n                    {\n                        \"name\": webpage.name,\n                        \"host\": webpage.ip + \":\" + webpage.port,\n                        \"timeout\": webpage.timeout\n                    },\n                ]\n                msg.url = webpage.ip + \":\" + webpage.port\n                node.send(msg);\n            }\n        }\n    }\n}\nreturn;",
+        "func": "let d = new Date();\nlet webpages = flow.get(\"ping-webpage\") || {};\nlet results = flow.get(\"ping-results\") || {};\nlet webpageslength = Object.keys(webpages).length;\nlet resultslength = Object.keys(results).length;\nlet manualtopic;\n\nfor (let i = 0; i < webpageslength; i++) {\n    let webpagekeys = Object.keys(webpages);\n    let webpageIDkey = webpagekeys[i];\n    let webpage = webpages[webpageIDkey] || {};\n\n    let intervalms = webpage.intervalms;\n    let timestampms;\n\n    for (let i = 0; i < resultslength; i++) {\n        let resultkeys = Object.keys(results);\n        let resultIDkey = resultkeys[i];\n\n        if (webpage.ip + \"-\" + webpage.port === resultIDkey) {\n            if (results[webpage.ip + \"-\" + webpage.port].hasOwnProperty(\"timestampms\")) {\n                timestampms = results[webpage.ip + \"-\" + webpage.port].timestampms;\n\n            } else {\n                timestampms = 0;\n            }\n            if (manualtopic) {\n                timestampms = 0;\n            }\n\n            if ((d.getTime() - timestampms > intervalms) || (manualtopic === true)) {\n                msg.topic = webpage.ip + \"-\" + webpage.port;\n                msg.name = webpage.name;\n                msg.startping = d.getTime();\n                msg.settings = webpage;\n                msg.payload = [\n                    {\n                        \"name\": webpage.name,\n                        \"host\": webpage.ip + \":\" + webpage.port,\n                        \"timeout\": webpage.timeout\n                    },\n                ]\n                msg.url = webpage.ip + \":\" + webpage.port\n                node.send(msg);\n            }\n        }\n    }\n}\nreturn;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 540,
+        "x": 520,
         "y": 1500,
         "wires": [
             [
-                "ab62130ac75c6cc3"
+                "10051fe07de608e1"
             ]
         ]
     },
     {
-        "id": "44c8f374afca77d0",
+        "id": "346b57f79c06a589",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "StoreResults",
         "func": "let pingResults = flow.get(\"ping-results\") || {}\nlet thisPing = pingResults[msg.topic] || {};\nlet success = msg.payload !== false && msg.payload >= 0;\nvar error; \nvar msgerror;\nvar showtime;\nvar time;\nvar state;\n\nvar d=new Date();\nvar hours=d.getHours();\nvar minutes=d.getMinutes();\nif (hours <= 9) {\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (\"0\" + hours + \":\" + minutes)\n    } else {\n        time = (\"0\" + hours + \":\" + minutes)\n    }\n}else{\n    if (minutes <= 9) {\n        minutes = (\"0\" + minutes);\n        time = (hours + \":\" + minutes)\n    } else {\n        time = (hours + \":\" + minutes)\n    }\n}\n        \nif (thisPing.error!==undefined) {\n    if(isNaN(thisPing.error)) {\n        thisPing.error = 0;\n    }\n}\nif (thisPing.telegram===undefined) {\n    thisPing.telegram = \"standby\"\n}\nvar statetrue\nif (msg.statusCode === 200) {\n  state = true;\n  error = 0;\n  showtime = time\n} else {\n  state =  false;\n  error = thisPing.error +1;\n  showtime = thisPing.timestamp;\n}\nthisPing.name = msg.name\nthisPing.host = msg.url.split(\":\")[0];\nthisPing.timestamp= showtime ;\nthisPing.timestampms = d.getTime();\nthisPing.responseTime = (d.getTime() - msg.startping);\nthisPing.state = state;\nthisPing.error = error ; \n\npingResults[msg.topic] = thisPing;//store ping obj in pingResults\nflow.set(\"ping-results\",pingResults);//save pingResults in flow context\n\nmsg.payload = thisPing;\nreturn msg;",
         "outputs": 1,
@@ -3397,20 +3320,20 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1110,
+        "x": 1090,
         "y": 1500,
         "wires": [
             [
-                "b727f1326c27c11c",
-                "bc590573b2dad3ad"
+                "d2dffb94981b7e0b",
+                "a07b9f020c17b790"
             ]
         ]
     },
     {
-        "id": "ab62130ac75c6cc3",
+        "id": "10051fe07de608e1",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "pauseType": "rate",
         "timeout": "5",
@@ -3424,19 +3347,19 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 760,
+        "x": 740,
         "y": 1500,
         "wires": [
             [
-                "85b715f15d00f72d"
+                "ea6e75af454187d9"
             ]
         ]
     },
     {
-        "id": "84d1f580c16ea2da",
+        "id": "ff2b4b3a21dfed9c",
         "type": "delay",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "",
         "pauseType": "rate",
         "timeout": "5",
@@ -3450,21 +3373,21 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 760,
+        "x": 740,
         "y": 1460,
         "wires": [
             [
-                "d5bcfe939b763813"
+                "b804687eedf11df4"
             ]
         ]
     },
     {
-        "id": "1e5e3c4131beb0b3",
+        "id": "e190e039e91f9e87",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "3b2b72b585c88f27",
+        "z": "166b3f5d22a2184b",
+        "g": "216f05fa3f5bf204",
         "name": "clear line",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 3,
         "width": 0,
         "height": 0,
@@ -3486,10 +3409,10 @@
         ]
     },
     {
-        "id": "44475db7efe00393",
+        "id": "b0ccc9f9559fe1b1",
         "type": "file in",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Read backup",
         "filename": "filename",
         "filenameType": "msg",
@@ -3502,15 +3425,15 @@
         "y": 2420,
         "wires": [
             [
-                "1ae2c7f5f40e970a"
+                "d9ade764157951c1"
             ]
         ]
     },
     {
-        "id": "9c42e0ab6739ed28",
+        "id": "4b7304f5dc110112",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Get save location",
         "func": "delete msg.payload;\nlet destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/ping-webpage-tabel.txt\";\nreturn msg;",
         "outputs": 1,
@@ -3522,15 +3445,15 @@
         "y": 2420,
         "wires": [
             [
-                "44475db7efe00393"
+                "b0ccc9f9559fe1b1"
             ]
         ]
     },
     {
-        "id": "1ae2c7f5f40e970a",
+        "id": "d9ade764157951c1",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "property": "payload",
         "action": "",
@@ -3539,15 +3462,15 @@
         "y": 2420,
         "wires": [
             [
-                "34d4122e692824d2"
+                "72227791611cb138"
             ]
         ]
     },
     {
-        "id": "34d4122e692824d2",
+        "id": "72227791611cb138",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Payload2Object",
         "func": "let store = msg.payload;\nlet msg2 = Object.assign({}, store);\nreturn [{payload:(msg2)}];",
         "outputs": 1,
@@ -3559,15 +3482,15 @@
         "y": 2420,
         "wires": [
             [
-                "041c750c228e587d"
+                "fccd36321a0d857a"
             ]
         ]
     },
     {
-        "id": "041c750c228e587d",
+        "id": "fccd36321a0d857a",
         "type": "split",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "splt": "\\n",
         "spltType": "str",
@@ -3579,17 +3502,17 @@
         "y": 2420,
         "wires": [
             [
-                "d9cd72f1676b0a6b"
+                "a23e04b0a3ca55d6"
             ]
         ]
     },
     {
-        "id": "d9cd72f1676b0a6b",
+        "id": "a23e04b0a3ca55d6",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "webpage2topic",
-        "func": "let value = msg.payload.ip + \"-\" + msg.payload.port;\nmsg.topic = value;\nreturn msg;",
+        "func": "let value = msg.payload.ip + \"-\" + msg.payload.port;\nmsg.topic = value;\n\nlet results = flow.get(\"ping-results\") || {};\nlet devresults = results[value] || {};\ndevresults.name = msg.payload.name;\ndevresults.ip = msg.payload.ip;\ndevresults.port = msg.payload.port;\n// write back\nresults[value] = devresults;\nflow.set(\"ping-results\", results);\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3599,15 +3522,15 @@
         "y": 2420,
         "wires": [
             [
-                "2d62137a62b5f310"
+                "4d4149d66f32721a"
             ]
         ]
     },
     {
-        "id": "2d62137a62b5f310",
+        "id": "4d4149d66f32721a",
         "type": "join",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "",
         "mode": "custom",
         "build": "object",
@@ -3628,15 +3551,15 @@
         "y": 2420,
         "wires": [
             [
-                "c6fa40d54883924c"
+                "a84f133d7e4eae3c"
             ]
         ]
     },
     {
-        "id": "c6fa40d54883924c",
+        "id": "a84f133d7e4eae3c",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "flow.set ping-webpage",
         "func": "let store =  msg.payload;\nflow.set(\"ping-webpage\", store);\nreturn [{payload:Object.values(store)}];",
         "outputs": 1,
@@ -3648,43 +3571,43 @@
         "y": 2420,
         "wires": [
             [
-                "4bf92364cba23ae4"
+                "c38f40f199c20a55"
             ]
         ]
     },
     {
-        "id": "4bf92364cba23ae4",
+        "id": "c38f40f199c20a55",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "1e72c782492a6eeb",
+        "z": "166b3f5d22a2184b",
+        "g": "e7af55a89184cc8f",
         "name": "Ping tool, Restore webpage table (read file)",
         "mode": "link",
         "links": [
-            "800809ad6f690cbf"
+            "f9d95b3068658814"
         ],
         "x": 1715,
         "y": 2420,
         "wires": []
     },
     {
-        "id": "2d5dcb4304a0901a",
+        "id": "84ba71cdf4ae82e2",
         "type": "link out",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "Ping tool, Restore telegram (read file)",
         "mode": "link",
         "links": [
-            "21850dcc45e2382d"
+            "146935cfdb882149"
         ],
         "x": 1185,
         "y": 1720,
         "wires": []
     },
     {
-        "id": "f897010fb19eecc9",
+        "id": "88fa8d97ed01a35e",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "Get save location",
         "func": "delete msg.payload;\nlet destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/telegram-credentials.txt\";\nreturn msg;",
         "outputs": 1,
@@ -3696,32 +3619,32 @@
         "y": 1720,
         "wires": [
             [
-                "cf994b3878b086ab"
+                "5c6e4e15ea273f4f"
             ]
         ]
     },
     {
-        "id": "24b8247762331bc4",
+        "id": "8a6bb0c24630fb56",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "Ping tool, start UI",
         "links": [
-            "bb849d5256e829c7"
+            "f0ba8d7f10def91b"
         ],
         "x": 155,
         "y": 1720,
         "wires": [
             [
-                "f897010fb19eecc9"
+                "88fa8d97ed01a35e"
             ]
         ]
     },
     {
-        "id": "cf994b3878b086ab",
+        "id": "5c6e4e15ea273f4f",
         "type": "file in",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "Read telegram bot id",
         "filename": "filename",
         "filenameType": "msg",
@@ -3734,15 +3657,15 @@
         "y": 1720,
         "wires": [
             [
-                "58be7eaf6fc63e2c"
+                "8b943e2fc13a8c89"
             ]
         ]
     },
     {
-        "id": "ee14456093c642ae",
+        "id": "b15cdbd993c6e2a0",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Get saved telegram info",
         "func": "delete msg.payload;\nlet telegram = flow.get(\"telegram\");\nlet setbot = { payload: telegram.credentails.bot };\nlet setchatid = { payload: telegram.credentails.chatid };\nlet setbefore = { payload: telegram.credentails.before };\nlet setafter = { payload: telegram.credentails.after };\n\nreturn [setbot, setchatid, setbefore, setafter];",
         "outputs": 4,
@@ -3754,45 +3677,45 @@
         "y": 1880,
         "wires": [
             [
-                "63f0dd7b943e2d88"
+                "f5902126afad6b5a"
             ],
             [
-                "cbf354f448d7609e"
+                "73aca68d7ad60296"
             ],
             [
-                "07c9ebb0e615861d"
+                "b46a11b44c0ec868"
             ],
             [
-                "290c7653e5d8f1a0"
+                "61628aa61cb3f639"
             ]
         ]
     },
     {
-        "id": "21850dcc45e2382d",
+        "id": "146935cfdb882149",
         "type": "link in",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Ping tool, set telegram after deploy",
         "links": [
-            "2d5dcb4304a0901a"
+            "84ba71cdf4ae82e2"
         ],
         "x": 155,
         "y": 1880,
         "wires": [
             [
-                "ee14456093c642ae"
+                "b15cdbd993c6e2a0"
             ]
         ]
     },
     {
-        "id": "63f0dd7b943e2d88",
+        "id": "f5902126afad6b5a",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
         "label": "Telegram BOT credentials",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 25,
         "width": 14,
         "height": 1,
@@ -3807,19 +3730,19 @@
         "y": 1820,
         "wires": [
             [
-                "8df879b0f01694f6"
+                "1e530be405246b27"
             ]
         ]
     },
     {
-        "id": "cbf354f448d7609e",
+        "id": "73aca68d7ad60296",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
         "label": "Telegram Chat ID credentials",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 26,
         "width": 10,
         "height": 1,
@@ -3834,17 +3757,17 @@
         "y": 1860,
         "wires": [
             [
-                "8df879b0f01694f6"
+                "1e530be405246b27"
             ]
         ]
     },
     {
-        "id": "8df879b0f01694f6",
+        "id": "1e530be405246b27",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Set Device settings",
-        "func": "let data1 = context.get(\"data1\") || null; \nlet data2 = context.get(\"data2\") || null; \nlet data3 = context.get(\"data3\") || null;\nlet data4 = context.get(\"data4\") || null;\n\nlet settings = flow.get(\"telegram\") || {};\n\nswitch (msg.topic){\n\n    case \"bot\":\n        data1 = msg.payload; \n        context.set(\"data1\", data1);//store in context for next time \n        return;\n    \n    case \"chatid\":\n        data2 = msg.payload; \n        context.set(\"data2\", data2);//store in context for next time \n        return;\n\n    case \"before\":\n        data3 = msg.payload;\n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"after\":\n        data4 = msg.payload;\n        context.set(\"data4\", data4);//store in context for next time \n        return;        \n            \n    case \"submit\":\n        if ((data1 !== null) && (data2 !== null)) {\n            let values = [];\n            let dev = settings[\"credentials\"] || {};\n            \n            dev.bot = data1;\n            dev.chatid = data2;\n            if ((data3 === undefined) || (data3 === null)) {\n                dev.before = \"00:00\"\n            } else {\n                dev.before = data3;\n            }\n            if ((data4 === undefined) || (data4 === null)) {\n                dev.after = \"00:00\"    \n            } else {    \n                dev.after = data4\n            }\n\n            settings[\"credentails\"] = dev;\n            values.push(dev);\n\n            flow.set(\"telegram\", settings);\n        } else {\n            return;\n        }\n    }\n\nreturn [{ payload: Object.values(settings) }];",
+        "func": "let data1 = context.get(\"data1\") || null; \nlet data2 = context.get(\"data2\") || null; \nlet data3 = context.get(\"data3\") || null;\nlet data4 = context.get(\"data4\") || null;\n\nlet settings = flow.get(\"telegram\") || {};\n\nswitch (msg.topic){\n\n    case \"bot\":\n        data1 = msg.payload; \n        context.set(\"data1\", data1);//store in context for next time \n        return;\n    \n    case \"chatid\":\n        data2 = msg.payload; \n        context.set(\"data2\", data2);//store in context for next time \n        return;\n\n    case \"before\":\n        data3 = msg.payload;\n        context.set(\"data3\", data3);//store in context for next time \n        return;\n\n    case \"after\":\n        data4 = msg.payload;\n        context.set(\"data4\", data4);//store in context for next time \n        return;        \n            \n    case \"submit\":\n        if ((data1 !== null) && (data2 !== null)) {\n            let values = [];\n            let dev = settings[\"credentials\"] || {};\n            \n            dev.bot = data1;\n            dev.chatid = data2;\n            if ((data3 === undefined) || (data3 === null)) {\n                dev.before = 600\n            } else {\n                dev.before = data3;\n            }\n            if ((data4 === undefined) || (data4 === null)) {\n                dev.after = 86399400    \n            } else {    \n                dev.after = data4\n            }\n\n            settings[\"credentails\"] = dev;\n            values.push(dev);\n\n            flow.set(\"telegram\", settings);\n        } else {\n            return;\n        }\n    }\n\nreturn [{ payload: Object.values(settings) }];",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3854,17 +3777,17 @@
         "y": 1860,
         "wires": [
             [
-                "3be3c709f83c4a7c"
+                "c68148ee941641dd"
             ]
         ]
     },
     {
-        "id": "05c29c01d7a525f2",
+        "id": "7db9aaa94ecaf35f",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 30,
         "width": 24,
         "height": 1,
@@ -3883,15 +3806,15 @@
         "y": 1980,
         "wires": [
             [
-                "8df879b0f01694f6"
+                "1e530be405246b27"
             ]
         ]
     },
     {
-        "id": "3be3c709f83c4a7c",
+        "id": "c68148ee941641dd",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Get save location",
         "func": "let destination = flow.get(\"savefiledestination\");\nmsg.filename = destination + \"/telegram-credentials.txt\";\nreturn msg;",
         "outputs": 1,
@@ -3903,15 +3826,15 @@
         "y": 1860,
         "wires": [
             [
-                "7856886803b859f9"
+                "cbcd5e464785a972"
             ]
         ]
     },
     {
-        "id": "7856886803b859f9",
+        "id": "cbcd5e464785a972",
         "type": "file",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Save to file",
         "filename": "filename",
         "filenameType": "msg",
@@ -3925,12 +3848,12 @@
         ]
     },
     {
-        "id": "7cb31ccc3b84d3c9",
+        "id": "05da5dc31e69d30b",
         "type": "ui_button",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "clear line telegram",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 24,
         "width": 0,
         "height": 0,
@@ -3952,10 +3875,10 @@
         ]
     },
     {
-        "id": "101651f7938ec76a",
+        "id": "ae2fffa6ec0b3d72",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "Telegram client message",
         "func": "let d = new Date();\nlet telegram = flow.get(\"telegram\") || {}\nlet message = \"https://api.telegram.org/bot\" + telegram.credentails.bot + \"/sendMessage?chat_id=\" + telegram.credentails.chatid + \"&text=\";\nlet msgtext, time;\nlet timeofday = Number(d.getHours() * 3600000) + (d.getMinutes() * 60000);\n\nif (msg.settings.notification === \"yes\") {\n    if (msg.payload.error === msg.settings.timeout) {\n        if (msg.payload.telegram === \"standby\") {\n            let pingResults = flow.get(\"ping-results\") || {}\n            if ((timeofday < telegram.credentails.before) || (timeofday > telegram.credentails.after)) {\n                //silent\n                msgtext = { payload: '' + message + 'Client ' + msg.payload.name + ' (' + msg.topic + ') has ' + msg.payload.error + ' timeouts&disable_notification=true' };\n            } else {\n                msgtext = { payload: '' + message + 'Client ' + msg.payload.name + ' (' + msg.topic + ') has ' + msg.payload.error + ' timeouts' };\n            }\n            let thisPing = pingResults[msg.topic] || {};\n            thisPing.telegram = \"message\";\n            pingResults[msg.topic] = thisPing;\n            flow.set(\"ping-results\", pingResults);\n            return msgtext;\n        }\n    } else if (msg.payload.error === 0) {\n        if (msg.payload.telegram === \"message\") {\n            let pingResults = flow.get(\"ping-results\") || {}\n            if ((timeofday < telegram.credentails.before) || (timeofday > telegram.credentails.after)) {\n                //silent\n                msgtext = { payload: '' + message + 'Client ' + msg.payload.name + ' (' + msg.topic + ') is back online&disable_notification=true' };\n            } else {\n                msgtext = { payload: '' + message + 'Client ' + msg.payload.name + ' (' + msg.topic + ') is back online' };\n            }\n            let thisPing = pingResults[msg.topic] || {};\n            thisPing.telegram = \"standby\";\n            pingResults[msg.topic] = thisPing;\n            flow.set(\"ping-results\", pingResults);\n            return msgtext;\n        }\n    }\n}\nreturn;",
         "outputs": 1,
@@ -3963,23 +3886,23 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1350,
+        "x": 1330,
         "y": 1460,
         "wires": [
             [
-                "b7a28857c0a98769"
+                "beb7bb9db7edfa83"
             ]
         ]
     },
     {
-        "id": "07c9ebb0e615861d",
+        "id": "b46a11b44c0ec868",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
         "label": "Silent before",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 28,
         "width": 8,
         "height": 1,
@@ -3994,19 +3917,19 @@
         "y": 1900,
         "wires": [
             [
-                "8df879b0f01694f6"
+                "1e530be405246b27"
             ]
         ]
     },
     {
-        "id": "290c7653e5d8f1a0",
+        "id": "61628aa61cb3f639",
         "type": "ui_text_input",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
         "label": "Silent after",
         "tooltip": "",
-        "group": "d33ea1387fe714ae",
+        "group": "dac2721519016a48",
         "order": 29,
         "width": 8,
         "height": 1,
@@ -4021,33 +3944,33 @@
         "y": 1940,
         "wires": [
             [
-                "8df879b0f01694f6"
+                "1e530be405246b27"
             ]
         ]
     },
     {
-        "id": "b0f5215c040efa68",
+        "id": "9e910e80179fc615",
         "type": "ui_text",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
-        "group": "d33ea1387fe714ae",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
+        "group": "dac2721519016a48",
         "order": 27,
         "width": 8,
         "height": 1,
         "name": "",
-        "label": "Receive silent telegram notification messages",
+        "label": "Send silent telegram notification messages",
         "format": "{{msg.payload}}",
         "layout": "row-right",
         "className": "",
-        "x": 320,
+        "x": 310,
         "y": 1980,
         "wires": []
     },
     {
-        "id": "58be7eaf6fc63e2c",
+        "id": "8b943e2fc13a8c89",
         "type": "json",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "",
         "property": "payload",
         "action": "",
@@ -4056,15 +3979,15 @@
         "y": 1720,
         "wires": [
             [
-                "9f695d9ddcadfc0f"
+                "e7735b27bed783c8"
             ]
         ]
     },
     {
-        "id": "9f695d9ddcadfc0f",
+        "id": "e7735b27bed783c8",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "1b078b4e3cb34041",
+        "z": "166b3f5d22a2184b",
+        "g": "0655677491b8b65b",
         "name": "Set telegram credentials",
         "func": "let settings = {};\nlet dev = settings[\"credentials\"] || {};\n\ndev.bot = msg.payload[0].bot;\ndev.chatid = msg.payload[0].chatid;\ndev.before = msg.payload[0].before;\ndev.after = msg.payload[0].after;\nsettings[\"credentails\"] = dev;\n\nflow.set(\"telegram\", settings);\nreturn msg;",
         "outputs": 1,
@@ -4076,15 +3999,15 @@
         "y": 1720,
         "wires": [
             [
-                "2d5dcb4304a0901a"
+                "84ba71cdf4ae82e2"
             ]
         ]
     },
     {
-        "id": "09fd1e5d9b2fccb5",
+        "id": "3c89a7eb8f399738",
         "type": "inject",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "",
         "props": [
             {
@@ -4106,15 +4029,15 @@
         "y": 1940,
         "wires": [
             [
-                "15f040d084253a21"
+                "00ec2250586baf7a"
             ]
         ]
     },
     {
-        "id": "15f040d084253a21",
+        "id": "00ec2250586baf7a",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "f9c91086607bc42e",
+        "z": "166b3f5d22a2184b",
+        "g": "5bfc11d8ddf9e991",
         "name": "Clear",
         "func": "delete msg.payload;\nmsg.payload =\"\";\nreturn msg;",
         "outputs": 1,
@@ -4126,18 +4049,18 @@
         "y": 1940,
         "wires": [
             [
-                "290c7653e5d8f1a0",
-                "07c9ebb0e615861d",
-                "cbf354f448d7609e",
-                "63f0dd7b943e2d88"
+                "61628aa61cb3f639",
+                "b46a11b44c0ec868",
+                "73aca68d7ad60296",
+                "f5902126afad6b5a"
             ]
         ]
     },
     {
-        "id": "bc590573b2dad3ad",
+        "id": "a07b9f020c17b790",
         "type": "function",
-        "z": "778214a986683b78",
-        "g": "36344ae984d9166c",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
         "name": "Telegram webpage message",
         "func": "let d = new Date();\nlet telegram = flow.get(\"telegram\") || {}\nlet message = \"https://api.telegram.org/bot\" + telegram.credentails.bot + \"/sendMessage?chat_id=\" + telegram.credentails.chatid + \"&text=\";\nlet msgtext, time;\nlet timeofday = Number(d.getHours() * 3600000) + (d.getMinutes() * 60000);\n\nif (msg.settings.notification === \"yes\") {\n    if (msg.payload.error === msg.settings.timeout) {\n        if (msg.payload.telegram === \"standby\") {\n            let pingResults = flow.get(\"ping-results\") || {}\n            if ((timeofday < telegram.credentails.before) || (timeofday > telegram.credentails.after)) {\n                //silent\n                msgtext = { payload: '' + message + 'Webpage ' + msg.payload.name + ' (' + msg.payload.ip + \":\" + msg.payload.port + ') has ' + msg.payload.error + ' timeouts&disable_notification=true' };\n            } else {\n                msgtext = { payload: '' + message + 'Webpage ' + msg.payload.name + ' (' + msg.payload.ip + \":\" + msg.payload.port + ') has ' + msg.payload.error + ' timeouts' };\n            }\n            let thisPing = pingResults[msg.topic] || {};\n            thisPing.telegram = \"message\";\n            pingResults[msg.topic] = thisPing;\n            flow.set(\"ping-results\", pingResults);\n            return msgtext;\n        }\n    } else if (msg.payload.error === 0) {\n        if (msg.payload.telegram === \"message\") {\n            let pingResults = flow.get(\"ping-results\") || {}\n            if ((timeofday < telegram.credentails.before) || (timeofday > telegram.credentails.after)) {\n                //silent\n                msgtext = { payload: '' + message + 'Webpage ' + msg.payload.name + ' (' + msg.payload.ip + \":\" + msg.payload.port + ') is back online&disable_notification=true' };\n            } else {\n                msgtext = { payload: '' + message + 'Webpage ' + msg.payload.name + ' (' + msg.payload.ip + \":\" + msg.payload.port + ') is back online' };\n            }\n            let thisPing = pingResults[msg.topic] || {};\n            thisPing.telegram = \"standby\";\n            pingResults[msg.topic] = thisPing;\n            flow.set(\"ping-results\", pingResults);\n            return msgtext;\n        }\n    }\n}\nreturn;",
         "outputs": 1,
@@ -4145,12 +4068,74 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1360,
+        "x": 1340,
         "y": 1500,
         "wires": [
             [
-                "b7a28857c0a98769"
+                "beb7bb9db7edfa83"
             ]
         ]
+    },
+    {
+        "id": "c05f3223354eb6df",
+        "type": "function",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
+        "name": "prepare details",
+        "func": "if (msg.payload.port === \"N/A\"){\n    msg.topic = msg.payload.name + \" (ip:\" + msg.payload.ip + \")\";\n} else {\n    msg.topic = msg.payload.name + \" (ip:\" + msg.payload.ip + \":\" + msg.payload.port + \")\";\n}\n\nlet str = JSON.stringify(msg.payload, null, 2);\ndelete msg.payload;\nmsg.payload = \"<pre>\" + str + \"</pre>\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1980,
+        "y": 1540,
+        "wires": [
+            [
+                "b4a4ffd10afd18e1"
+            ]
+        ]
+    },
+    {
+        "id": "b4a4ffd10afd18e1",
+        "type": "ui_toast",
+        "z": "166b3f5d22a2184b",
+        "g": "193df047762d6c3d",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": false,
+        "outputs": 1,
+        "ok": "Close",
+        "cancel": "",
+        "raw": true,
+        "className": "",
+        "topic": "",
+        "name": "Show detail info",
+        "x": 2180,
+        "y": 1540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dac2721519016a48",
+        "type": "ui_group",
+        "name": "Ping tool",
+        "tab": "754ed74f8d6d9565",
+        "order": 2,
+        "disp": true,
+        "width": "24",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "754ed74f8d6d9565",
+        "type": "ui_tab",
+        "name": "PingTool",
+        "icon": "dashboard",
+        "order": 5,
+        "disabled": false,
+        "hidden": false
     }
 ]
